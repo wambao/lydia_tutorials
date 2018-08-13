@@ -160,34 +160,41 @@
 			"buffers":
 			[
 				{
-					"contents": "<!DOCTYPE html>\n<html>\n  <head>\n    <meta charset=\"utf-8\">\n    <title>The Triangle Tracker</title>\n    <link href=\"css/styles.css\" rel=\"stylesheet\" type=\"text/css\">\n   \t`````````````````````````````````````````<style>\n    body {\n      background:url('pattern.jpg') no-repeat center center fixed;\n      background-size: cover;\n\n    }\n    </style>\n  </head>\n    <h1>java script rocks!</h1>\n    <h2></h2>\n    <script src=\"js/scripts.js\"></script>\n  <body>\n      <button type=\"button\" onclick=\" check_getTriangleDimensions()\">Enter Values</button>\n  </body>\n</html>\n\n",
+					"contents": "<!DOCTYPE html>\n<html>\n  <head>\n    <meta charset=\"utf-8\">\n    <title>The Triangle Tracker</title>\n    <link href=\"css/styles.css\" rel=\"stylesheet\" type=\"text/css\">\n  </head>\n    <h1>Wanja's Famous Triangle Tracker<h1>\n    <h2>Javascript Rocks. This site incorporates JavaScript to show what triangle you have based on your values. Enjoy!</h2>\n    <script src=\"js/scripts.js\"></script>\n  <body>\n      <button type=\"button\" onclick=\" check_getTriangles()\">Enter Values</button>\n  </body>\n</html>\n",
 					"file": "/home/wairimu/wanja/kinya.html",
-					"file_size": 522,
-					"file_write_time": 131786272400774151,
+					"file_size": 496,
+					"file_write_time": 131786578087681289,
 					"settings":
 					{
-						"buffer_size": 563,
+						"buffer_size": 495,
 						"encoding": "UTF-8",
 						"line_ending": "Unix"
 					}
 				},
 				{
-					"file": "/home/wairimu/lk-assignment/New File.html",
+					"file": "/home/wairimu/wanja/js/scripts.js",
 					"settings":
 					{
-						"buffer_size": 137512,
+						"buffer_size": 570,
 						"encoding": "UTF-8",
 						"line_ending": "Unix"
 					}
 				},
 				{
-					"contents": "#\nAbout me\n\nproject or program name:\n\nAbout me\n\nauthor name:\nLydia Kinyanjui\n\ndescription of project\nMy personal history and bio\n\nIn this project I have used html and CSS to style my page\n",
 					"file": "/home/wairimu/lk-assignment/README.md",
-					"file_size": 202,
-					"file_write_time": 131781853606726249,
 					"settings":
 					{
-						"buffer_size": 188,
+						"buffer_size": 551,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/wairimu/wanja/css/styles.css",
+					"settings":
+					{
+						"buffer_size": 382,
+						"encoding": "UTF-8",
 						"line_ending": "Unix"
 					}
 				}
@@ -224,11 +231,14 @@
 			},
 			"expanded_folders":
 			[
-				"/home/wairimu/lk-assignment"
+				"/home/wairimu/lk-assignment",
+				"/home/wairimu/lk-assignment/New File_files"
 			],
 			"file_history":
 			[
+				"/home/wairimu/wanja/js/scrip.js",
 				"/home/wairimu/lk-assignment/-css/lk.css",
+				"/home/wairimu/lk-assignment/New File.html",
 				"/home/wairimu/lk-assignment/miale.html",
 				"/home/wairimu/lk-assignment/lk.css",
 				"/home/wairimu/lydia_tutorials/<div class=\" col-sm-6 row row-content\">"
@@ -272,7 +282,7 @@
 			"groups":
 			[
 				{
-					"selected": 0,
+					"selected": 1,
 					"sheets":
 					[
 						{
@@ -281,43 +291,15 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 563,
+								"buffer_size": 495,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										210,
-										210
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/HTML/HTML.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/home/wairimu/lk-assignment/New File.html",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 137512,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
+										495,
+										495
 									]
 								],
 								"settings":
@@ -334,25 +316,81 @@
 							"type": "text"
 						},
 						{
-							"buffer": 2,
-							"file": "/home/wairimu/lk-assignment/README.md",
+							"buffer": 1,
+							"file": "/home/wairimu/wanja/js/scripts.js",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 188,
+								"buffer_size": 570,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										10,
-										10
+										567,
+										567
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/wairimu/lk-assignment/README.md",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 551,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										551,
+										551
 									]
 								],
 								"settings":
 								{
 									"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/home/wairimu/wanja/css/styles.css",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 382,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										325,
+										325
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/CSS/CSS.sublime-syntax"
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
@@ -370,7 +408,7 @@
 			},
 			"input":
 			{
-				"height": 0.0
+				"height": 36.0
 			},
 			"layout":
 			{
@@ -399,8 +437,12 @@
 			{
 				"height": 0.0
 			},
+			"output.unsaved_changes":
+			{
+				"height": 108.0
+			},
 			"pinned_build_system": "",
-			"position": "0,0,0,0,0,683,30,1366,735,1366,768",
+			"position": "0,0,0,0,0,209,230,1205,935,1366,768",
 			"project": "",
 			"replace":
 			{

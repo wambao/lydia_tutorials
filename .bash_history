@@ -170,3 +170,42 @@ pwd
 cd home
 cd Desktop
 cd
+mkdir READme.md
+ls
+git commit
+git add READme.md
+git commit -m "add READme.md"
+git init
+git commit -m"add  background"
+git add
+git add .
+gti commit -m "add background"
+git config
+git cinfig wanja
+git config wanja
+git status
+git add/home/wairimu/wanja/dark.jpg
+git add /home/wairimu/wanja/dark.jpg
+git add dark.jpg
+git commit -m "dark image"
+git add .
+git commit -m "add initial paragraph"
+git remote add gh-pages
+ls
+mv kinya.html lydia.html
+git add
+git add .
+git commit -m"change name of kinya.html to lydia.html"
+git push origin master
+git branch gh-pages
+git push origin gh-pages
+git status
+git log
+cd
+git add
+gir add .
+git commit -m"new background"
+pwd
+Desktop
+cd Desktop
+pwd

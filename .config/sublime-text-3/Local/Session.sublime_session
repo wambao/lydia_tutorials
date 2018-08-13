@@ -160,34 +160,37 @@
 			"buffers":
 			[
 				{
-					"contents": "<!DOCTYPE html>\n<html>\n  <head>\n    <meta charset=\"utf-8\">\n    <title>The Triangle Tracker</title>\n    <link href=\"css/styles.css\" rel=\"stylesheet\" type=\"text/css\">\n    <style>\n    body {\n      background-image: url(../triangle-tracker/images/louis.jpg);\n    }\n    </style>\n  </head>\n    <h1>Know Your Triangles!</h1>\n    <h2>This site allows you to detect the type of triangle that you have based on the dimensions that you put me. Click on the button to try it now</h2>\n    <script src=\"js/scripts.js\"></script>\n  <body>\n      <button type=\"button\" onclick=\" check_getTriangleDimensions()\">Enter Values</button>\n  </body>\n</html>\n\nss",
+					"contents": "<!DOCTYPE html>\n<html>\n  <head>\n    <meta charset=\"utf-8\">\n    <title>The Triangle Tracker</title>\n    <link href=\"css/styles.css\" rel=\"stylesheet\" type=\"text/\n   \t`````````````````````````````````````````<style>\n    body {\n      background:url('pattern.jpg') no-repeat center center fixed;\n      background-size: cover;\n\n    }\n    </style>\n  </head>\n    <h1>java script rocks!</h1>\n    <h2></h2>\n    <script src=\"js/scripts.js\"></script>\n  <body>\n      <button type=\"button\" onclick=\" check_getTriangleDimensions()\">Enter Values</button>\n  </body>\n</html>\n\n",
 					"file": "/home/wairimu/wanja/kinya.html",
-					"file_size": 633,
-					"file_write_time": 131786203360756927,
+					"file_size": 522,
+					"file_write_time": 131786272400774151,
 					"settings":
 					{
-						"buffer_size": 635,
+						"buffer_size": 558,
 						"encoding": "UTF-8",
 						"line_ending": "Unix"
 					}
 				},
 				{
+					"contents": "",
 					"file": "/home/wairimu/lk-assignment/New File.html",
+					"file_size": 137565,
+					"file_write_time": 131781477009759208,
 					"settings":
 					{
-						"buffer_size": 137512,
+						"buffer_size": 0,
 						"encoding": "UTF-8",
 						"line_ending": "Unix"
 					}
 				},
 				{
-					"contents": "#\nAbout me\n\nproject or program name:\n\nAbout me\n\nauthor name:\nLydia Kinyanjui\n\ndescription of project\nMy personal history and bio\n\nIn this project I have used html and CSS to style my page\n",
+					"contents": "#\nAbout me\n\nproject name:lydia.html\n\nAbout me:an ambitious human finding herself through this journey called life\n\nauthor name:\nLydia Kinyanjui\n\ndescription of project\nThe project takes us through my coding journey of learnig how to incorporate Html,Java Script and Css in a project.\nMy personal history and bio\nI majored in Finance in campus which is not remotely related to the tech industry but codding has been such an eye opener to greater things that i can do in the future.\n\nIn this project I have used html and CSS to style my page\n",
 					"file": "/home/wairimu/lk-assignment/README.md",
 					"file_size": 202,
 					"file_write_time": 131781853606726249,
 					"settings":
 					{
-						"buffer_size": 188,
+						"buffer_size": 540,
 						"line_ending": "Unix"
 					}
 				}
@@ -281,15 +284,15 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 635,
+								"buffer_size": 558,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										252,
-										252
+										159,
+										159
 									]
 								],
 								"settings":
@@ -309,7 +312,7 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 137512,
+								"buffer_size": 0,
 								"regions":
 								{
 								},
@@ -339,15 +342,15 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 188,
+								"buffer_size": 540,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										10,
-										10
+										539,
+										539
 									]
 								],
 								"settings":
@@ -370,7 +373,7 @@
 			},
 			"input":
 			{
-				"height": 0.0
+				"height": 36.0
 			},
 			"layout":
 			{
@@ -399,8 +402,12 @@
 			{
 				"height": 0.0
 			},
+			"output.unsaved_changes":
+			{
+				"height": 108.0
+			},
 			"pinned_build_system": "",
-			"position": "0,0,0,0,0,672,327,1312,807,1366,768",
+			"position": "0,0,0,0,0,683,30,1366,735,1366,768",
 			"project": "",
 			"replace":
 			{

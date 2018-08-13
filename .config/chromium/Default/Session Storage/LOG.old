@@ -1,24 +1,62 @@
-2018/08/13-09:07:08.528 2938 Reusing MANIFEST /home/wairimu/.config/chromium/Default/Session Storage/MANIFEST-000001
-2018/08/13-09:07:08.528 2938 Recovering log #53
-2018/08/13-09:07:08.529 2938 Reusing old log /home/wairimu/.config/chromium/Default/Session Storage/000053.log 
-2018/08/13-09:08:46.247 3466 Level-0 table #57: started
-2018/08/13-09:08:46.329 3466 Level-0 table #57: 19462 bytes OK
-2018/08/13-09:08:46.397 3466 Delete type=0 #53
-2018/08/13-09:22:21.132 3466 Level-0 table #59: started
-2018/08/13-09:22:21.232 3466 Level-0 table #59: 15850 bytes OK
-2018/08/13-09:22:21.277 3466 Delete type=0 #56
-2018/08/13-09:22:21.277 3466 Compacting 4@0 + 1@1 files
-2018/08/13-09:22:21.335 3466 Generated table #60@0: 700 keys, 39895 bytes
-2018/08/13-09:22:21.335 3466 Compacted 4@0 + 1@1 files => 39895 bytes
-2018/08/13-09:22:21.377 3466 compacted to: files[ 0 1 1 0 0 0 0 ]
-2018/08/13-09:22:21.378 3466 Delete type=2 #57
-2018/08/13-09:22:21.378 3466 Delete type=2 #49
-2018/08/13-09:22:21.378 3466 Delete type=2 #51
-2018/08/13-09:22:21.378 3466 Delete type=2 #54
-2018/08/13-09:22:21.379 3466 Delete type=2 #59
-2018/08/13-11:05:06.707 3466 Level-0 table #62: started
-2018/08/13-11:05:06.894 3466 Level-0 table #62: 15056 bytes OK
-2018/08/13-11:05:07.265 3466 Delete type=0 #58
-2018/08/13-11:44:59.168 3466 Level-0 table #64: started
-2018/08/13-11:44:59.314 3466 Level-0 table #64: 15130 bytes OK
-2018/08/13-11:44:59.441 3466 Delete type=0 #61
+2018/08/13-11:49:00.801 8035 Reusing MANIFEST /home/wairimu/.config/chromium/Default/Session Storage/MANIFEST-000001
+2018/08/13-11:49:00.802 8035 Recovering log #63
+2018/08/13-11:49:00.802 8035 Reusing old log /home/wairimu/.config/chromium/Default/Session Storage/000063.log 
+2018/08/13-11:55:18.704 8628 Level-0 table #67: started
+2018/08/13-11:55:18.761 8628 Level-0 table #67: 14196 bytes OK
+2018/08/13-11:55:18.829 8628 Delete type=0 #63
+2018/08/13-12:30:48.913 8628 Level-0 table #69: started
+2018/08/13-12:30:49.050 8628 Level-0 table #69: 14921 bytes OK
+2018/08/13-12:30:49.162 8628 Delete type=0 #66
+2018/08/13-12:30:49.164 8628 Compacting 4@0 + 1@1 files
+2018/08/13-12:30:49.296 8628 Generated table #70@0: 744 keys, 29908 bytes
+2018/08/13-12:30:49.297 8628 Compacted 4@0 + 1@1 files => 29908 bytes
+2018/08/13-12:30:49.329 8628 compacted to: files[ 0 1 1 0 0 0 0 ]
+2018/08/13-12:30:49.330 8628 Delete type=2 #60
+2018/08/13-12:30:49.331 8628 Delete type=2 #69
+2018/08/13-12:30:49.331 8628 Delete type=2 #62
+2018/08/13-12:30:49.331 8628 Delete type=2 #64
+2018/08/13-12:30:49.331 8628 Delete type=2 #67
+2018/08/13-12:42:13.891 8628 Level-0 table #72: started
+2018/08/13-12:42:13.979 8628 Level-0 table #72: 17483 bytes OK
+2018/08/13-12:42:14.035 8628 Delete type=0 #68
+2018/08/13-13:19:21.213 8628 Compacting 1@0 + 1@1 files
+2018/08/13-13:19:21.611 8628 Generated table #73@0: 831 keys, 45367 bytes
+2018/08/13-13:19:21.611 8628 Compacted 1@0 + 1@1 files => 45367 bytes
+2018/08/13-13:19:21.690 8628 compacted to: files[ 0 1 1 0 0 0 0 ]
+2018/08/13-13:19:21.798 8628 Delete type=2 #70
+2018/08/13-13:19:21.833 8628 Delete type=2 #72
+2018/08/13-13:41:21.270 8628 Level-0 table #75: started
+2018/08/13-13:41:21.324 8628 Level-0 table #75: 12035 bytes OK
+2018/08/13-13:41:21.402 8628 Delete type=0 #71
+2018/08/13-13:58:13.942 8628 Compacting 1@0 + 1@1 files
+2018/08/13-13:58:14.222 8628 Generated table #76@0: 876 keys, 47940 bytes
+2018/08/13-13:58:14.222 8628 Compacted 1@0 + 1@1 files => 47940 bytes
+2018/08/13-13:58:14.310 8628 compacted to: files[ 0 1 1 0 0 0 0 ]
+2018/08/13-13:58:14.394 8628 Delete type=2 #73
+2018/08/13-13:58:14.462 8628 Delete type=2 #75
+2018/08/13-14:47:13.932 8628 Level-0 table #78: started
+2018/08/13-14:47:14.107 8628 Level-0 table #78: 12611 bytes OK
+2018/08/13-14:47:14.187 8628 Delete type=0 #74
+2018/08/13-15:05:22.472 8628 Compacting 1@0 + 1@1 files
+2018/08/13-15:05:22.904 8628 Generated table #79@0: 909 keys, 52607 bytes
+2018/08/13-15:05:22.904 8628 Compacted 1@0 + 1@1 files => 52607 bytes
+2018/08/13-15:05:22.993 8628 compacted to: files[ 0 1 1 0 0 0 0 ]
+2018/08/13-15:05:23.055 8628 Delete type=2 #78
+2018/08/13-15:05:23.055 8628 Delete type=2 #76
+2018/08/13-15:34:13.910 8628 Level-0 table #81: started
+2018/08/13-15:34:13.993 8628 Level-0 table #81: 15457 bytes OK
+2018/08/13-15:34:14.104 8628 Delete type=0 #77
+2018/08/13-15:55:56.838 8628 Level-0 table #83: started
+2018/08/13-15:55:57.079 8628 Level-0 table #83: 13245 bytes OK
+2018/08/13-15:55:57.290 8628 Delete type=0 #80
+2018/08/13-16:18:13.063 8628 Level-0 table #85: started
+2018/08/13-16:18:13.326 8628 Level-0 table #85: 13724 bytes OK
+2018/08/13-16:18:13.637 8628 Delete type=0 #82
+2018/08/13-16:49:13.888 8628 Compacting 3@0 + 1@1 files
+2018/08/13-16:49:14.612 8628 Generated table #86@0: 958 keys, 77137 bytes
+2018/08/13-16:49:14.612 8628 Compacted 3@0 + 1@1 files => 77137 bytes
+2018/08/13-16:49:14.690 8628 compacted to: files[ 0 1 1 0 0 0 0 ]
+2018/08/13-16:49:14.772 8628 Delete type=2 #85
+2018/08/13-16:49:14.773 8628 Delete type=2 #81
+2018/08/13-16:49:14.773 8628 Delete type=2 #79
+2018/08/13-16:49:14.773 8628 Delete type=2 #83
