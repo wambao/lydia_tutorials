@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/wairimu/lydia_tutorials/%3Cdiv%20class=%22%20col-sm-6%20row%20row-content%22%3E" added="2018-08-03T08:15:14Z" modified="2018-08-03T08:15:14Z" visited="2018-08-03T08:15:14Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2018-08-03T08:15:14Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wairimu/lydia_tutorials" added="2018-08-03T08:15:33Z" modified="2018-08-08T09:35:58Z" visited="2018-08-03T08:15:34Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:groups>
+          <bookmark:group>gitg</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2018-08-03T08:15:33Z" count="1"/>
+          <bookmark:application name="gitg" exec="&apos;gitg %f&apos;" modified="2018-08-08T09:35:58Z" count="9"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wairimu/Documents" added="2018-08-03T08:31:30Z" modified="2018-08-03T08:52:46Z" visited="2018-08-03T08:31:31Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2018-08-03T08:52:46Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wairimu/Documents/wildcats.html" added="2018-08-03T08:32:32Z" modified="2018-08-03T08:43:32Z" visited="2018-08-03T08:32:32Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2018-08-03T08:43:32Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wairimu/Documents/css" added="2018-08-03T08:34:47Z" modified="2018-08-03T08:42:53Z" visited="2018-08-03T08:34:47Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2018-08-03T08:42:53Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wairimu/Documents/style.css" added="2018-08-03T08:35:33Z" modified="2018-08-03T08:35:33Z" visited="2018-08-03T08:35:33Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2018-08-03T08:35:33Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/wairimu/08B6-197A/alex%20inc%20sn1/VTS_02_1.VOB" added="2018-08-05T12:50:44Z" modified="2018-08-05T12:54:14Z" visited="2018-08-05T12:50:45Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="io.elementary.videos" exec="&apos;io.elementary.videos %u&apos;" modified="2018-08-05T12:54:14Z" count="8"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/wairimu/08B6-197A/alex%20inc%20sn1/VTS_03_1.VOB" added="2018-08-05T12:55:23Z" modified="2018-08-05T12:55:23Z" visited="2018-08-05T12:55:23Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="io.elementary.videos" exec="&apos;io.elementary.videos %u&apos;" modified="2018-08-05T12:55:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wairimu/lydia_tutorials/images/a8ebc295b2abafd0a5e5fc8682908fd4.jpg" added="2018-08-05T18:12:35Z" modified="2018-08-05T18:12:35Z" visited="2018-08-05T18:12:35Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium-browser" exec="&apos;chromium-browser %u&apos;" modified="2018-08-05T18:12:35Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wairimu/Documents/New%20Tab.html" added="2018-08-06T09:21:58Z" modified="2018-08-06T09:21:58Z" visited="2018-08-06T09:21:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium-browser" exec="&apos;chromium-browser %u&apos;" modified="2018-08-06T09:21:58Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wairimu/Videos/Watch%20The%20Bold%20Type_%20Season%202%20Online%20_%20Watch%20Full%20HD%20The%20Bold%20Type_%20Season%202%20(2018)%20Online%20For%20Free%20PutLockers.html" added="2018-08-06T11:25:35Z" modified="2018-08-06T11:25:35Z" visited="2018-08-06T11:25:35Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium-browser" exec="&apos;chromium-browser %u&apos;" modified="2018-08-06T11:25:35Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wairimu/Videos/Watch%20The%20Bold%20Type_%20Season%202%20Online%20_%20Watch%20Full%20HD%20The%20Bold%20Type_%20Season%202%20(2018)%20Online%20For%20Free%20PutLockers_files/Watch%20The%20Bold%20Type_%20Season%202%20Online%20_%20Watch%20Full%20HD%20The%20Bold%20Type_%20Season%202%20(2018)%20Online%20For%20Free%20PutLockers.html" added="2018-08-06T11:26:01Z" modified="2018-08-06T11:26:01Z" visited="2018-08-06T11:26:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium-browser" exec="&apos;chromium-browser %u&apos;" modified="2018-08-06T11:26:01Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wairimu/lk-assignment" added="2018-08-07T17:09:03Z" modified="2018-08-07T17:09:03Z" visited="2018-08-07T17:09:03Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2018-08-07T17:09:03Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wairimu/lk-assignment/lk.css" added="2018-08-07T19:46:46Z" modified="2018-08-07T19:46:46Z" visited="2018-08-07T19:46:46Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2018-08-07T19:46:46Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wairimu/lk-assignment/download.jpeg" added="2018-08-07T19:55:34Z" modified="2018-08-07T19:55:34Z" visited="2018-08-07T19:55:34Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium-browser" exec="&apos;chromium-browser %u&apos;" modified="2018-08-07T19:55:34Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wairimu/lk-assignment/New%20File.html" added="2018-08-07T20:34:59Z" modified="2018-08-07T20:34:59Z" visited="2018-08-07T20:34:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium-browser" exec="&apos;chromium-browser %u&apos;" modified="2018-08-07T20:34:59Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wairimu/wanja/kinya.html" added="2018-08-12T13:16:58Z" modified="2018-08-12T13:34:11Z" visited="2018-08-12T13:16:58Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2018-08-12T13:34:11Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wairimu/Documents/New%20Tab_files/coloring-pages-for-first-grade-back-to-school-coloring-pages-for-first-grade-math-coloring-pages-grade-1.jpg" added="2018-08-13T07:58:28Z" modified="2018-08-13T07:58:28Z" visited="2018-08-13T07:58:28Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium-browser" exec="&apos;chromium-browser %u&apos;" modified="2018-08-13T07:58:28Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wairimu/wanja/coloring-pages-for-first-grade-back-to-school-coloring-pages-for-first-grade-math-coloring-pages-grade-1%20(1).jpg" added="2018-08-13T07:59:03Z" modified="2018-08-13T07:59:03Z" visited="2018-08-13T07:59:03Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium-browser" exec="&apos;chromium-browser %u&apos;" modified="2018-08-13T07:59:03Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wairimu/wanja/BEUGBRe.jpg" added="2018-08-13T08:21:20Z" modified="2018-08-13T08:21:20Z" visited="2018-08-13T08:21:20Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium-browser" exec="&apos;chromium-browser %u&apos;" modified="2018-08-13T08:21:20Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wairimu/wanja/dark.jpg" added="2018-08-13T09:43:45Z" modified="2018-08-13T09:43:45Z" visited="2018-08-13T09:43:45.894952Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium-browser" exec="&apos;chromium-browser %u&apos;" modified="2018-08-13T09:43:45Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

@@ -1,0 +1,6 @@
+L 1795 2018-08-05 14:51:52 [MSG] main.vala:386: Shotwell Photo Manager 0.2.4
+L 1795 2018-08-05 14:51:52 [MSG] Application.vala:154: Photos version: 0.2.4
+L 1795 2018-08-05 14:51:52 [MSG] Application.vala:156: Kernel version: 4.13.0-32-generic
+L 1795 2018-08-05 14:51:53 [WRN] DatabaseTable.vala:70: NAME: /home/wairimu/.local/share/pantheon-photos/data/photo.db
+L 1795 2018-08-05 14:51:54 [MSG] main.vala:56: Verifying database ...
+L 1795 2018-08-05 14:51:54 [MSG] VideoSupport.vala:397: interpreter state cookie not found; assuming all video thumbnails are out of date

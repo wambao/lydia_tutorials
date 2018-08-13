@@ -1,0 +1,1659 @@
+<!DOCTYPE html>
+
+
+    <html itemscope itemtype="http://schema.org/QAPage" class="">
+
+    <head>
+
+        <title>Newest &#39;software-installation&#39; Questions - Ask Ubuntu</title>
+        <link rel="shortcut icon" href="https://cdn.sstatic.net/Sites/askubuntu/img/favicon.ico?v=eff8fd315b9e">
+        <link rel="apple-touch-icon image_src" href="https://cdn.sstatic.net/Sites/askubuntu/img/apple-touch-icon.png?v=e16e1315edd6">
+        <link rel="search" type="application/opensearchdescription+xml" title="Ask Ubuntu" href="/opensearch.xml">
+
+
+        <meta property="og:type" content= "website" />
+        <meta property="og:url" content="https://askubuntu.com/questions/tagged/software-installation"/>
+        <meta property="og:site_name" content="Ask Ubuntu" />
+        <meta property="og:image" itemprop="image primaryImageOfPage" content="https://cdn.sstatic.net/Sites/askubuntu/img/apple-touch-icon@2.png?v=c492c9229955" />
+        <meta name="twitter:card" content="summary"/>
+        <meta name="twitter:domain" content="askubuntu.com"/>
+        <meta name="twitter:site" content="@AskUbuntu" />
+        <meta name="twitter:creator" content="@AskUbuntu" />
+        <meta name="twitter:title" property="og:title" itemprop="title name" content="Newest &#39;software-installation&#39; Questions" />
+        <meta name="twitter:description" property="og:description" itemprop="description" content="Q&amp;A for Ubuntu users and developers" />
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+        <script src="https://cdn.sstatic.net/Js/stub.en.js?v=7d575389c490"></script>
+    
+    <link rel="stylesheet" type="text/css" href="https://cdn.sstatic.net/Shared/stacks.css?v=bfa43f7a5209">
+        <link rel="stylesheet" type="text/css" href="https://cdn.sstatic.net/Sites/askubuntu/primary.css?v=e198fe750a73">
+            <link rel="stylesheet" type="text/css" href="https://cdn.sstatic.net/Sites/askubuntu/secondary.css?v=1dfe92a41001">
+    
+            <link rel="alternate" type="application/atom+xml" title="newest software-installation questions feed" href="/feeds/tag?tagnames=software-installation&amp;sort=newest" />
+            <script>
+                StackExchange.ready(function() {
+                                StackExchange.realtime.subscribeToActiveQuestions('89', 'questions-newest-tag-software-installation', ['software-installation']);
+
+                });
+            </script>
+
+        
+        
+        
+        
+        
+        
+                <script>
+        StackExchange.ready(function () {
+            StackExchange.realtime.init('wss://qa.sockets.stackexchange.com');
+            StackExchange.realtime.subscribeToReputationNotifications('89');
+                StackExchange.realtime.subscribeToTopBarNotifications('89');
+        });
+    </script>
+    <script>
+        StackExchange.init({"locale":"en","serverTime":1533193156,"routeName":"Questions/ListByTag","stackAuthUrl":"https://stackauth.com","networkMetaHostname":"meta.stackexchange.com","site":{"name":"Ask Ubuntu","description":"Q&A for Ubuntu users and developers","isNoticesTabEnabled":true,"enableNewTagCreationWarning":true,"insertSpaceAfterNameTabCompletion":false,"id":89,"childUrl":"https://meta.askubuntu.com","enableSocialMediaInSharePopup":true,"protocol":"https"},"user":{"fkey":"7af752025cbd29c2c306baf29ba7ba005b9dda0216e973290f18fae0e1a10fa2","tid":"74d209ac-977e-d8a8-31da-60ba7f772921","rep":0,"isAnonymous":true,"isAnonymousNetworkWide":true,"ab":{"hero_signup_button":{"v":"team_create_cta_a","g":1}}},"realtime":{"newest":true,"active":true,"tagged":true,"staleDisconnectIntervalInHours":0,"workerIframeDomain":"https://cdn.sstatic.net"},"events":{"postType":{"question":1},"postEditionSection":{"title":1,"body":2,"tags":3}},"story":{"minCompleteBodyLength":75,"likedTagsMaxLength":300,"dislikedTagsMaxLength":300},"jobPreferences":{"maxNumDeveloperRoles":2,"maxNumIndustries":4}}, {"site":{"allowImageUploads":true,"enableUserHovercards":true,"styleCode":true,"enableImgurHttps":true,"forceHttpsImages":true},"userMessaging":{},"comments":{},"userProfile":{},"tags":{},"accounts":{"currentPasswordRequiredForChangingStackIdPassword":true},"flags":{"allowRetractingFlags":true},"snippets":{"renderDomain":"stacksnippets.net"},"paths":{},"markdown":{"asteriskIntraWordEmphasis":true},"monitoring":{"clientTimingsAbsoluteTimeout":30000,"clientTimingsDebounceTimeout":1000},"channels":{"removeExtraBillingAndShippingFields":true},"slack":{"sidebarAdDismissCookie":"slack-sidebar-ad"}});
+        StackExchange.using.setCacheBreakers({"js/prettify-full.en.js":"db8402e4b111","js/moderator.en.js":"c48addfbc3c8","js/full-anon.en.js":"a40ce67278fa","js/full.en.js":"ede0c62b33ae","js/wmd.en.js":"65c1d478ccf8","js/mobile.en.js":"f941cd34fe0a","js/help.en.js":"bbea3af4c29d","js/tageditor.en.js":"47790d75c6bf","js/tageditornew.en.js":"82306754b780","js/inline-tag-editing.en.js":"e7aa31e8eba1","js/revisions.en.js":"db5a160e1690","js/review.en.js":"ee0f92399c1f","js/tagsuggestions.en.js":"78eee7c19ab2","js/post-validation.en.js":"8c9628ba7ce9","js/explore-qlist.en.js":"da7883fd255c","js/events.en.js":"91fc0e31d0d3","js/keyboard-shortcuts.en.js":"592338dc88a4","js/external-editor.en.js":"5bf3162e483e","js/adops.en.js":"22a9bd59b1e9"});
+        StackExchange.using("gps", function() {
+             StackExchange.gps.init(true);
+        });
+    </script>
+    <noscript id="noscript-css"><style>body,.top-bar{margin-top:1.9em}</style></noscript>
+    </head>
+        <body class="tagged-questions-page new-topbar">
+    <div id="notify-container"></div>
+    <div id="custom-header"><div class="nav-global"><div class="nav-global-wrapper"><ul><li><a href="http://www.ubuntu.com">Ubuntu</a></li><li><a href="http://community.ubuntu.com/">Community</a></li><li><a href="http://askubuntu.com" class="active">Ask!</a></li><li><a href="http://developer.ubuntu.com">Developer</a></li><li><a href="http://design.ubuntu.com">Design</a></li><li><a href="http://www.ubuntu.com/certification">Hardware</a></li><li><a href="http://insights.ubuntu.com/">Insights</a></li><li><a href="https://jujucharms.com/">Juju</a></li><li><a href="http://shop.ubuntu.com">Shop</a></li><li class="more"><a href="#">More <span>›</span></a><ul><li><a href="http://apps.ubuntu.com">Apps</a></li><li><a href="https://help.ubuntu.com">Help</a></li><li><a href="http://ubuntuforums.org">Forum</a></li><li><a href="http://www.launchpad.net">Launchpad</a></li><li><a href="http://maas.ubuntu.com">MAAS</a></li><li><a href="http://www.canonical.com">Canonical</a></li></ul></li></ul></div></div> <script> $(function() { $(".nav-global .more > a").click(function(e){ $(this).closest(".more").toggleClass("open"); return false; }); $(document).click(function(){ $(".nav-global .more.open").removeClass("open"); }); }); </script></div>
+
+
+
+
+<header class="top-bar js-top-bar">
+    <div class="-container">
+        <div class="-main">
+                            <a href="#" class="-logo js-gps-track js-network-logo network-logo"
+                   data-gps-track="stack_exchange_popup.show">
+                    <svg aria-hidden="true" class="svg-icon native iconLogoSEAlternativeSm" width="110" height="15" viewBox="0 0 110 15"><g><path d="M50.4 11.92l-1.98-3.23-1.05 1.17v2.06h-1.42V2.08h1.42v6.07l2.76-3.24h1.73L49.4 7.66l2.77 4.26h-1.76zm-7.86.08c-1.6 0-3.16-.97-3.16-3.6 0-2.62 1.56-3.57 3.16-3.57.97 0 1.66.28 2.33.98l-.98.94c-.45-.48-.8-.66-1.35-.66s-1.01.22-1.32.62c-.3.39-.42.88-.42 1.7 0 .81.11 1.32.42 1.71.3.4.77.62 1.32.62s.9-.18 1.35-.66l.98.93c-.67.7-1.36.99-2.33.99zm-5.7-3.18h-1.67c-.84 0-1.27.38-1.27 1.01 0 .64.4 1 1.3 1 .54 0 .95-.05 1.33-.4.2-.21.3-.54.3-1.04v-.57zm.02 3.1v-.64c-.51.51-1 .72-1.88.72-.89 0-1.47-.2-1.9-.64a2.13 2.13 0 0 1-.57-1.5c0-1.17.83-2.02 2.45-2.02h1.87v-.5c0-.88-.44-1.3-1.55-1.3-.78 0-1.16.17-1.55.67l-.94-.87c.67-.77 1.37-1 2.55-1 1.94 0 2.92.8 2.92 2.4v4.68h-1.4zm-6.44 0c-1.33 0-1.95-.94-1.95-1.95V6.12h-.8V5.04h.8V2.9h1.43v2.13h1.37v1.08H29.9V9.9c0 .51.25.82.78.82h.59v1.2h-.85zm-6.9.08c-1.5 0-2.57-.35-3.52-1.3l1-.98a3.3 3.3 0 0 0 2.55.94c1.3 0 2.06-.55 2.06-1.5 0-.43-.13-.8-.4-1.03-.25-.23-.5-.33-1.09-.41l-1.17-.17a3.43 3.43 0 0 1-1.89-.79 2.43 2.43 0 0 1-.72-1.87c0-1.72 1.25-2.89 3.32-2.89 1.32 0 2.24.33 3.1 1.12l-.97.94a2.94 2.94 0 0 0-2.17-.76c-1.17 0-1.82.66-1.82 1.53 0 .36.12.68.38.91.25.22.66.39 1.12.46l1.13.16c.93.14 1.44.36 1.86.74.55.47.81 1.17.81 2.01 0 1.81-1.5 2.89-3.58 2.89z" fill="#FFF"/><path d="M107.4 6.88c-.2-.44-.61-.76-1.23-.76-.63 0-1.04.32-1.23.76-.12.27-.16.46-.17.79h2.8a2 2 0 0 0-.17-.8zm-2.63 2.04c0 .94.58 1.63 1.6 1.63.81 0 1.21-.23 1.68-.69l1.11 1.08a3.52 3.52 0 0 1-2.8 1.16c-1.74 0-3.4-.8-3.4-3.76 0-2.39 1.3-3.74 3.2-3.74 2.06 0 3.22 1.5 3.22 3.5v.82h-4.61zm-5.68-2.67c-1.1 0-1.2.92-1.2 1.9 0 .96.1 1.9 1.2 1.9 1.08 0 1.21-.94 1.21-1.9 0-.98-.13-1.9-1.21-1.9zm-.19 8.53c-1.13 0-1.9-.22-2.67-.96l1.14-1.15c.41.4.83.56 1.45.56 1.1 0 1.48-.77 1.48-1.51v-.75c-.48.53-1.03.73-1.75.73s-1.34-.24-1.76-.65c-.69-.68-.74-1.63-.74-2.9 0-1.29.05-2.21.74-2.9a2.5 2.5 0 0 1 1.77-.65c.78 0 1.29.21 1.8.77V4.7h1.78v7.05c0 1.76-1.26 3.04-3.24 3.04zm-5.58-2.77V7.58c0-1-.63-1.33-1.21-1.33s-1.23.33-1.23 1.33v4.43h-1.84V4.7h1.8v.67c.47-.5 1.15-.76 1.83-.76.74 0 1.33.24 1.74.65.6.59.75 1.28.75 2.08V12h-1.84zm-7.14-3.1h-1.46c-.66 0-1.03.32-1.03.84 0 .5.34.84 1.06.84.51 0 .84-.04 1.16-.35.2-.18.27-.48.27-.93v-.4zm.04 3.1v-.63c-.5.49-.96.7-1.8.7-.84 0-1.45-.21-1.89-.65-.4-.4-.6-1-.6-1.64 0-1.17.8-2.12 2.51-2.12h1.74V7.3c0-.8-.4-1.15-1.37-1.15-.7 0-1.03.17-1.42.6l-1.17-1.14c.72-.78 1.43-1 2.66-1 2.06 0 3.14.86 3.14 2.58V12h-1.8zm-7 0V7.54c0-.97-.62-1.3-1.2-1.3-.57 0-1.18.34-1.18 1.3v4.47H75V2h1.84v3.36c.5-.5 1.11-.76 1.76-.76 1.62 0 2.47 1.13 2.47 2.67v4.74h-1.84zm-7.7.09c-1.48 0-3.3-.8-3.3-3.76 0-2.97 1.82-3.74 3.3-3.74 1 0 1.77.31 2.42.99L72.7 6.82c-.38-.4-.7-.57-1.19-.57-.44 0-.78.15-1.05.47-.28.36-.4.85-.4 1.62 0 .77.12 1.28.4 1.63.27.33.61.48 1.05.48.48 0 .8-.17 1.19-.58l1.24 1.23c-.65.67-1.41 1-2.43 1zm-6.07-.1l-1.36-2.2-1.34 2.2h-2.2l2.54-3.74-2.45-3.58h2.2l1.25 2.1 1.26-2.1h2.2l-2.44 3.58L67.65 12h-2.2zm-12.46 0V2h6.63v1.74h-4.66V6.1h3.97v1.75h-3.97v2.43h4.66V12H53z" fill="#2F96E8"/><path d="M2 1h8a2 2 0 0 1 2 2H0c0-1.1.9-2 2-2z" fill="#8FD8F7"/><path d="M0 10h12a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2zm7 2v3l3-3z" fill="#155397"/><path fill="#46A2D9" d="M0 4h12v2H0z"/><path fill="#2D6DB5" d="M0 7h12v2H0z"/></g></svg>
+                </a>
+                <div class="topbar-dialog network-logo-dialog js-network-logo-dialog dno">
+                    <div class="dialog-content">
+                        <h4 class="bold">Stack Exchange Network</h4>
+                        <p>
+                            Stack Exchange network consists of 174 Q&amp;A communities including <a href="https://stackoverflow.com">Stack Overflow</a>, the largest, most trusted online community for developers to learn, share their knowledge, and build their careers.
+                        </p>
+                        <a class="btn-secondary" href="https://stackexchange.com"
+                        data-gps-track="stack_exchange_popup.click">Visit Stack Exchange</a>
+                        <a class="icon-close js-close-button"><svg aria-hidden="true" class="svg-icon iconClear" width="18" height="18" viewBox="0 0 18 18"><path d="M15 4.41L13.59 3 9 7.59 4.41 3 3 4.41 7.59 9 3 13.59 4.41 15 9 10.41 13.59 15 15 13.59 10.41 9z"/></svg></a>
+                    </div>
+                </div>
+
+
+                <nav class="navigation" role="navigation" aria-label="site navigation">
+                    <ol class="-list">
+                    </ol>
+                </nav>
+
+        </div>
+
+            <form id="search" action=/search method="get" class="searchbar js-searchbar " autocomplete="off" role="search">
+                    <div class="ps-relative">
+                        <input name="q" type="text" placeholder="Search on Ask Ubuntu…" value="[software-installation]" autocomplete="off" maxlength="240" class="f-input js-search-field " />
+                        <button type="submit" aria-label="Search..." class="s-btn s-btn__primary btn-topbar-primary js-search-submit"><svg aria-hidden="true" class="svg-icon mx0 iconSearch" width="18" height="18" viewBox="0 0 18 18"><path d="M12.86 11.32L18 16.5 16.5 18l-5.18-5.14v-.35a7 7 0 1 1 1.19-1.19h.35zM7 12A5 5 0 1 0 7 2a5 5 0 0 0 0 10z"/></svg></button>
+                    </div>
+            </form>
+
+        
+
+
+
+
+
+<ol class="-secondary js-secondary-topbar-links">
+        <li class="-item searchbar-trigger js-searchbar-trigger"><a href="#" class="-link"><svg aria-hidden="true" class="svg-icon iconSearch" width="18" height="18" viewBox="0 0 18 18"><path d="M12.86 11.32L18 16.5 16.5 18l-5.18-5.14v-.35a7 7 0 1 1 1.19-1.19h.35zM7 12A5 5 0 1 0 7 2a5 5 0 0 0 0 10z"/></svg></a></li>
+            <li class="-item">
+        <a href="https://stackexchange.com/users/?tab=inbox" class="-link js-inbox-button" title="Recent inbox messages">
+            <svg aria-hidden="true" class="svg-icon iconInbox" width="20" height="18" viewBox="0 0 20 18"><path d="M15.19 1H4.63c-.85 0-1.6.54-1.85 1.35L0 10.79V15c0 1.1.9 2 2 2h16a2 2 0 0 0 2-2v-4.21l-2.87-8.44A2 2 0 0 0 15.19 1zm-.28 10l-2 2h-6l-2-2H1.96L4.4 3.68A1 1 0 0 1 5.35 3h9.12a1 1 0 0 1 .95.68L17.86 11h-2.95z"/></svg>
+            <span class="indicator-badge js-unread-count _important" style="display: none;"></span>
+        </a>
+    </li>
+    <li class="-item">
+        <a href="https://stackexchange.com/users/?tab=reputation" class="-link js-achievements-button" title="Recent achievements: reputation, badges, and privileges earned" data-unread-class="_highlighted-positive">
+            <svg aria-hidden="true" class="svg-icon iconAchievements" width="18" height="18" viewBox="0 0 18 18"><path d="M15 2V1H3v1H0v4c0 1.6 1.4 3 3 3v1c.4 1.5 3 2.6 5 3v2H5s-1 1.5-1 2h10c0-.4-1-2-1-2h-3v-2c2-.4 4.6-1.5 5-3V9c1.6-.2 3-1.4 3-3V2h-3zM3 7c-.5 0-1-.5-1-1V4h1v3zm8.4 2.5L9 8 6.6 9.4l1-2.7L5 5h3l1-2.7L10 5h2.8l-2.3 1.8 1 2.7h-.1zM16 6c0 .5-.5 1-1 1V4h1v2z"/></svg>
+            <span class="indicator-badge js-unread-count _positive" style="display: none;"></span>
+        </a>
+    </li>
+
+    <li class="-item help-button-item" data-remove-order="1"><a href="#" class="-link js-help-button" title="Help Center and other resources">
+        <svg aria-hidden="true" class="svg-icon iconHelp" width="18" height="18" viewBox="0 0 18 18"><path d="M9 1a8 8 0 1 0 0 16A8 8 0 0 0 9 1zm.81 12.13c-.02.71-.55 1.15-1.24 1.13-.66-.02-1.17-.49-1.15-1.2.02-.72.56-1.18 1.22-1.16.7.03 1.2.51 1.17 1.23zM11.77 8a5.8 5.8 0 0 1-1.02.91l-.53.37c-.26.2-.42.43-.5.69a4 4 0 0 0-.09.75c0 .05-.03.16-.18.16H7.88c-.16 0-.18-.1-.18-.15.03-.66.12-1.21.4-1.66a5.29 5.29 0 0 1 1.43-1.22c.16-.12.28-.25.38-.39a1.34 1.34 0 0 0 .02-1.71c-.24-.31-.51-.46-1.03-.46-.51 0-.8.26-1.02.6-.21.33-.18.73-.18 1.1H5.75c0-1.38.35-2.25 1.1-2.76.52-.35 1.17-.5 1.93-.5 1 0 1.79.18 2.49.71.64.5.98 1.18.98 2.12 0 .57-.2 1.05-.48 1.44z"/></svg>
+    </a></li>
+
+    <li class="-item">
+        <a href="https://stackexchange.com" class="-link js-site-switcher-button js-gps-track" data-gps-track="site_switcher.show" title="A list of all 174 Stack Exchange sites">
+            <svg aria-hidden="true" class="svg-icon iconStackExchange" width="18" height="18" viewBox="0 0 18 18"><path d="M1 13c0 1.1.9 2 2 2h8v3l3-3h1a2 2 0 0 0 2-2v-2H1v2zM15 1H3a2 2 0 0 0-2 2v2h16V3a2 2 0 0 0-2-2zM1 6h16v4H1V6z"/></svg>
+        </a>
+    </li>
+
+            <li class="-ctas">
+                        <a href="https://askubuntu.com/users/login?ssrc=head&returnurl=https%3a%2f%2faskubuntu.com%2fquestions%2ftagged%2fsoftware-installation" class="login-link s-btn btn-topbar-clear py8" rel="nofollow">Log In</a>
+                        <a href="https://askubuntu.com/users/signup?ssrc=head&returnurl=https%3a%2f%2faskubuntu.com%2fquestions%2ftagged%2fsoftware-installation" class="login-link s-btn s-btn__primary py8 btn-topbar-primary" rel="nofollow" data-ga="[&quot;sign up&quot;,&quot;Sign Up Navigation&quot;,&quot;Header&quot;,null,null]">Sign Up</a>
+
+            </li>
+
+    <li class="-dialog-container js-topbar-dialog-corral">
+
+
+    <div class="topbar-dialog siteSwitcher-dialog dno">
+        <div class="header">
+            <h3><a href="https://askubuntu.com">current community</a>
+            </h3>
+        </div>
+        <div class="modal-content current-site-container">
+            <ul class="current-site">
+                    <li class="grid">
+                            <div class="fl1">
+            <a href="https://askubuntu.com"
+       class="current-site-link site-link js-gps-track grid gs8 gsx"
+       data-id="89"
+       data-gps-track="site_switcher.click({ item_type:3 })">
+        <div class="favicon favicon-askubuntu site-icon grid--cell" title="Ask Ubuntu"></div>
+        <span class="grid--cell fl1">
+            Ask Ubuntu
+        </span>
+    </a>
+
+    </div>
+    <div class="related-links">
+            <a href="https://askubuntu.com/help" class="js-gps-track"     data-gps-track="site_switcher.click({ item_type:14 })"
+>help</a>
+                    <a href="https://chat.stackexchange.com?tab=site&amp;host=askubuntu.com" class="js-gps-track"     data-gps-track="site_switcher.click({ item_type:6 })"
+>chat</a>
+            </div>
+
+                    </li>
+                    <li class="related-site grid">
+                            <div class="L-shaped-icon-container">
+        <span class="L-shaped-icon"></span>
+    </div>
+
+                            <a href="https://meta.askubuntu.com"
+       class="site-link js-gps-track grid gs8 gsx"
+       data-id="91"
+       data-gps-track="site.switch({ target_site:91, item_type:3 }),site_switcher.click({ item_type:4 })">
+        <div class="favicon favicon-askubuntumeta site-icon grid--cell" title="Ask Ubuntu Meta"></div>
+        <span class="grid--cell fl1">
+            Ask Ubuntu Meta
+        </span>
+    </a>
+
+                    </li>
+            </ul>
+        </div>
+
+        <div class="header" id="your-communities-header">
+            <h3>
+your communities            </h3>
+
+        </div>
+        <div class="modal-content" id="your-communities-section">
+
+                <div class="call-to-login">
+<a href="https://askubuntu.com/users/signup?ssrc=site_switcher&amp;returnurl=https%3a%2f%2faskubuntu.com%2fquestions%2ftagged%2fsoftware-installation" class="login-link js-gps-track"     data-gps-track="site_switcher.click({ item_type:10 })"
+>Sign up</a> or <a href="https://askubuntu.com/users/login?ssrc=site_switcher&amp;returnurl=https%3a%2f%2faskubuntu.com%2fquestions%2ftagged%2fsoftware-installation" class="login-link js-gps-track"     data-gps-track="site_switcher.click({ item_type:11 })"
+>log in</a> to customize your list.
+                </div>
+        </div>
+
+        <div class="header">
+            <h3><a href="https://stackexchange.com/sites">more stack exchange communities</a>
+            </h3>
+            <a href="https://stackoverflow.blog" class="fr">company blog</a>
+        </div>
+        <div class="modal-content">
+                <div class="child-content"></div>
+        </div>        
+    </div>
+            <div class="topbar-dialog help-dialog js-help-dialog dno">
+        <div class="modal-content">
+            <ul>
+                                    <li>
+                        <a href="/tour" class="js-gps-track" data-gps-track="help_popup.click({ item_type:1 })">
+                            Tour
+                            <span class="item-summary">
+                                Start here for a quick overview of the site
+                            </span>
+                        </a>
+                    </li>
+                <li>
+                    <a href="/help" class="js-gps-track" data-gps-track="help_popup.click({ item_type:4 })">
+                        Help Center
+                        <span class="item-summary">
+                            Detailed answers to any questions you might have
+                        </span>
+                    </a>
+                </li>
+                        <li>
+                            <a href="https://meta.askubuntu.com" class="js-gps-track" data-gps-track="help_popup.click({ item_type:2 })">
+                                Meta
+                                <span class="item-summary">
+                                    Discuss the workings and policies of this site
+                                </span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://stackoverflow.com/company/about" class="js-gps-track" data-gps-track="help_popup.click({ item_type:6 })">
+                                About Us
+                                <span class="item-summary">
+                                    Learn more about Stack Overflow the company
+                                </span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.stackoverflowbusiness.com/?ref=topbar_help" class="js-gps-track" data-gps-track="help_popup.click({ item_type:7 })">
+                                Business
+                                <span class="item-summary">
+                                    Learn more about hiring developers or posting ads with us
+                                </span>
+                            </a>
+                        </li>
+            </ul>
+        </div>
+    </div>
+            </li>
+</ol>
+
+    </div>
+</header>
+    <div id="js-gdpr-consent-banner" class="p16 bg-black-700 fc-white ps-fixed b0 l0 r0 z-banner" role="banner" aria-hidden="false">
+        <div class="wmx10 mx-auto grid grid__center jc-spacebetween gs8 gsx" role="alertdialog" aria-describedby="notice-message">
+            <div class="grid--cell" aria-label="notice-message">
+                <p class="mb0 lh-lg">
+                    This site uses cookies to deliver our services and to show you relevant ads and job listings. 
+By using our site, you acknowledge that you have read and understand our <a class="s-link s-link__inherit td-underline fc-white" target="_blank" href="https://stackoverflow.com/legal/cookie-policy">Cookie Policy</a>, <a class="s-link s-link__inherit td-underline fc-white" target="_blank" href="https://stackoverflow.com/legal/privacy-policy">Privacy Policy</a>, and our <a class="s-link s-link__inherit td-underline fc-white" target="_blank" href="https://stackoverflow.com/legal/terms-of-service/public">Terms of Service</a>. 
+Your use of Stack Overflow’s Products and Services, including the Stack Overflow Network, is subject to these policies and terms.
+                </p>
+            </div>
+            <div class="grid--cell ml-auto" aria-label="notice-dismiss">
+                <button class="s-btn s-btn__inverted fc-white bg-black-700 baw0 p16 js-notice-close" role="status" aria-hidden="true">
+                    <svg aria-hidden="true" class="svg-icon m0 iconClearSm" width="14" height="14" viewBox="0 0 14 14"><path d="M12 3.41L10.59 2 7 5.59 3.41 2 2 3.41 5.59 7 2 10.59 3.41 12 7 8.41 10.59 12 12 10.59 8.41 7z"/></svg>
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        StackExchange.ready(function () { StackExchange.topbar.init({ observeSize: false }); });
+    </script>
+
+
+    
+
+
+    <div class="container">
+            <div id="header">
+                <br class="cbt">
+                <div id="hlogo">
+                    <a href="https://askubuntu.com"
+                        class="js-gps-track"
+                        data-gps-track="top_nav.click({is_current:false, location:5, destination:8})">
+                        Ask Ubuntu
+                    </a>
+                </div>
+                <div id="hmenus">
+                    <div class="nav mainnavs" role="navigation" aria-label="site navigation">
+                        <ul>
+                                <li class="youarehere">
+        <a id="nav-questions"
+           href="/questions"
+           class="js-gps-track"
+           data-gps-track="top_nav.click({is_current:true, location:5, destination:1})">
+        Questions
+        </a>
+    </li>
+
+                                <li>
+        <a id="nav-tags"
+           href="/tags"
+           class="js-gps-track"
+           data-gps-track="top_nav.click({is_current:false, location:5, destination:2})">
+        Tags
+        </a>
+    </li>
+
+                                <li>
+        <a id="nav-users"
+           href="/users"
+           class="js-gps-track"
+           data-gps-track="top_nav.click({is_current:false, location:5, destination:3})">
+        Users
+        </a>
+    </li>
+
+                                <li>
+        <a id="nav-badges"
+           href="/help/badges"
+           class="js-gps-track"
+           data-gps-track="top_nav.click({is_current:false, location:5, destination:4})">
+        Badges
+        </a>
+    </li>
+
+    <li>
+        <a id="nav-unanswered"
+           href="/unanswered"
+           class="js-gps-track"
+           data-gps-track="top_nav.click({is_current:false, location:5, destination:5})">
+        Unanswered
+        </a>
+    </li>
+                        </ul>
+                    </div>
+                    <div class="nav askquestion" role="navigation" aria-label="ask new question">
+                        <ul>
+                            <li>
+                                <a id="nav-askquestion"   href="/questions/ask"  >Ask Question</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+                
+        <div id="content">
+
+
+            
+
+    <div id="mainbar">
+            <div class="subheader">
+                    <h1>Tagged Questions</h1>
+                
+
+
+<div id="tabs">
+        <a href="/tags/software-installation/info" data-nav-xhref="" title="information about this tag" data-value="" data-shortcut="I">
+            info</a>
+        <a class="youarehere is-selected " href="/questions/tagged/software-installation?sort=newest&amp;pageSize=15" data-nav-xhref="" title="The most recently asked questions" data-value="newest" data-shortcut="N">
+            newest</a>
+        <a href="/questions/tagged/software-installation?sort=frequent&amp;pageSize=15" data-nav-xhref="" title="Questions with the most links" data-value="frequent" data-shortcut="F">
+            frequent</a>
+        <a href="/questions/tagged/software-installation?sort=votes&amp;pageSize=15" data-nav-xhref="" title="Questions with the most votes" data-value="votes" data-shortcut="V">
+            votes</a>
+        <a href="/questions/tagged/software-installation?sort=active&amp;pageSize=15" data-nav-xhref="" title="Questions that have recent activity" data-value="active" data-shortcut="A">
+            active</a>
+        <a href="/questions/tagged/software-installation?sort=unanswered&amp;pageSize=15" data-nav-xhref="" title="Questions that have no upvoted answers" data-value="unanswered" data-shortcut="U">
+            unanswered</a>
+    </div>
+
+            </div>
+            <div class="question">
+
+
+            <div class="p12 ba baw2 bc-black-2">
+                    <p>
+Installing software on a running system, either as binaries or from source.                    </p>
+                                    <div class="grid gs12 jc-space-between ai-center">
+                        <div class="grid--cell w100"> 
+                            <ul class="grid gs12 list-ls-none fw-wrap">
+                                    <li class="grid--cell">
+                                        <a title="Tag wiki" href="/tags/software-installation/info">Learn more…</a>
+                                    </li>
+                                                                <li class="grid--cell">
+                                    <a title="Top answerers and askers in this tag" href="/tags/software-installation/topusers">Top users</a>
+                                </li>
+                                <li class="grid--cell">
+                                    <a title="Common, alternate spellings or phrasings for this tag" href="/tags/software-installation/synonyms">Synonyms (1)</a>
+                                </li>
+                                                                                            </ul>
+                        </div>
+                    </div>
+            </div>
+
+            </div>
+        
+        <div id="questions" class="content-padding">
+<div class="question-summary" id="question-summary-1061610">
+    <div class="statscontainer">
+        <div class="stats">
+            <div class="vote">
+                <div class="votes">
+                    <span class="vote-count-post "><strong>0</strong></span>
+                    <div class="viewcount">votes</div>
+                </div>
+            </div>
+            <div class="status unanswered">
+                <strong>0</strong>answers
+            </div>
+        </div>
+        <div class="views " title="6 views">
+    6 views
+</div>
+    </div>
+    <div class="summary">
+        <h3><a href="/questions/1061610/ubuntu-16-04-build-openldap-from-source" class="question-hyperlink">Ubuntu 16.04 Build OpenLDAP from source</a></h3>
+        <div class="excerpt">
+            I want to enable slapd feature --enable-spasswd. So I download OpenLDAP source code from this url.
+
+http://mirror.eu.oneandone.net/software/openldap/openldap-release/openldap-2.4.44.tgz
+
+Then I run ...
+        </div>          
+        <div class="tags t-software-installation t-compiling t-patch t-openldap">
+            <a href="/questions/tagged/software-installation" class="post-tag" title="show questions tagged &#39;software-installation&#39;" rel="tag">software-installation</a> <a href="/questions/tagged/compiling" class="post-tag" title="show questions tagged &#39;compiling&#39;" rel="tag">compiling</a> <a href="/questions/tagged/patch" class="post-tag" title="show questions tagged &#39;patch&#39;" rel="tag">patch</a> <a href="/questions/tagged/openldap" class="post-tag" title="show questions tagged &#39;openldap&#39;" rel="tag">openldap</a> 
+        </div>
+        <div class="started fr">
+            <div class="user-info ">
+    <div class="user-action-time">
+        asked <span title="2018-08-02 04:15:45Z" class="relativetime">2 hours ago</span>
+    </div>
+    <div class="user-gravatar32">
+        <a href="/users/855889/reeve-lau"><div class="gravatar-wrapper-32"><img src="https://www.gravatar.com/avatar/02d2392b02e1a0f5f9add9ec12ffac11?s=32&amp;d=identicon&amp;r=PG&amp;f=1" alt="" width="32" height="32"></div></a>
+    </div>
+    <div class="user-details">
+        <a href="/users/855889/reeve-lau">Reeve Lau</a>
+        <div class="-flair">
+            <span class="reputation-score" title="reputation score " dir="ltr">1</span><span title="1 bronze badge"><span class="badge3"></span><span class="badgecount">1</span></span>
+        </div>
+    </div>
+</div>
+        </div>  
+    </div>
+</div><div class="question-summary" id="question-summary-1061577">
+    <div class="statscontainer">
+        <div class="stats">
+            <div class="vote">
+                <div class="votes">
+                    <span class="vote-count-post "><strong>-1</strong></span>
+                    <div class="viewcount">votes</div>
+                </div>
+            </div>
+            <div class="status answered">
+                <strong>1</strong>answer
+            </div>
+        </div>
+        <div class="views " title="25 views">
+    25 views
+</div>
+    </div>
+    <div class="summary">
+        <h3><a href="/questions/1061577/will-not-install-any-ideas" class="question-hyperlink">Will not install. Any ideas? [duplicate]</a></h3>
+        <div class="excerpt">
+            I have a  laptop with Win10(Barebones).  Downloaded Ubantu and copied to a flash drive.  I cannot get it to install.
+        </div>          
+        <div class="tags t-software-installation">
+            <a href="/questions/tagged/software-installation" class="post-tag" title="show questions tagged &#39;software-installation&#39;" rel="tag">software-installation</a> 
+        </div>
+        <div class="started fr">
+            <div class="user-info ">
+    <div class="user-action-time">
+        asked <span title="2018-08-01 23:32:05Z" class="relativetime">7 hours ago</span>
+    </div>
+    <div class="user-gravatar32">
+        <a href="/users/855849/gary-mullins"><div class="gravatar-wrapper-32"><img src="https://graph.facebook.com/1710268359082056/picture?type=large" alt="" width="32" height="32"></div></a>
+    </div>
+    <div class="user-details">
+        <a href="/users/855849/gary-mullins">Gary Mullins</a>
+        <div class="-flair">
+            <span class="reputation-score" title="reputation score " dir="ltr">1</span>
+        </div>
+    </div>
+</div>
+        </div>  
+    </div>
+</div><div class="question-summary" id="question-summary-1061544">
+    <div class="statscontainer">
+        <div class="stats">
+            <div class="vote">
+                <div class="votes">
+                    <span class="vote-count-post "><strong>-1</strong></span>
+                    <div class="viewcount">votes</div>
+                </div>
+            </div>
+            <div class="status unanswered">
+                <strong>0</strong>answers
+            </div>
+        </div>
+        <div class="views " title="16 views">
+    16 views
+</div>
+    </div>
+    <div class="summary">
+        <h3><a href="/questions/1061544/attempting-to-install-a-zip" class="question-hyperlink">Attempting to Install a zip</a></h3>
+        <div class="excerpt">
+            I'm very new to linux, as evidence by me asking this question. I'm attempting to install freetype fonts, if you need more info you can see it here: https://download.savannah.gnu.org/releases/freetype/
+...
+        </div>          
+        <div class="tags t-package-management t-software-installation">
+            <a href="/questions/tagged/package-management" class="post-tag" title="show questions tagged &#39;package-management&#39;" rel="tag">package-management</a> <a href="/questions/tagged/software-installation" class="post-tag" title="show questions tagged &#39;software-installation&#39;" rel="tag">software-installation</a> 
+        </div>
+        <div class="started fr">
+            <div class="user-info ">
+    <div class="user-action-time">
+        asked <span title="2018-08-01 19:57:24Z" class="relativetime">11 hours ago</span>
+    </div>
+    <div class="user-gravatar32">
+        <a href="/users/853140/brian-anderson"><div class="gravatar-wrapper-32"><img src="https://lh5.googleusercontent.com/-skHmyVFQ0M0/AAAAAAAAAAI/AAAAAAAABOE/5mJfapMQ3Tw/photo.jpg?sz=32" alt="" width="32" height="32"></div></a>
+    </div>
+    <div class="user-details">
+        <a href="/users/853140/brian-anderson">Brian Anderson</a>
+        <div class="-flair">
+            <span class="reputation-score" title="reputation score " dir="ltr">1</span>
+        </div>
+    </div>
+</div>
+        </div>  
+    </div>
+</div><div class="question-summary" id="question-summary-1061486">
+    <div class="statscontainer">
+        <div class="stats">
+            <div class="vote">
+                <div class="votes">
+                    <span class="vote-count-post "><strong>0</strong></span>
+                    <div class="viewcount">votes</div>
+                </div>
+            </div>
+            <div class="status answered-accepted">
+                <strong>1</strong>answer
+            </div>
+        </div>
+        <div class="views " title="23 views">
+    23 views
+</div>
+    </div>
+    <div class="summary">
+        <h3><a href="/questions/1061486/unable-to-locate-package-python-pip-when-trying-to-install-from-fresh-18-04-in" class="question-hyperlink">&ldquo;Unable to locate package python-pip&rdquo; When trying to install from fresh 18.04 install [duplicate]</a></h3>
+        <div class="excerpt">
+            I was following a tutorial online for python and it had me do this:
+
+akclark@enceladus:~$ pip install virtualenv 
+But I got the following:
+
+Command 'pip' not found, but can be installed with:
+
+sudo ...
+        </div>          
+        <div class="tags t-apt t-package-management t-software-installation t-python">
+            <a href="/questions/tagged/apt" class="post-tag" title="show questions tagged &#39;apt&#39;" rel="tag">apt</a> <a href="/questions/tagged/package-management" class="post-tag" title="show questions tagged &#39;package-management&#39;" rel="tag">package-management</a> <a href="/questions/tagged/software-installation" class="post-tag" title="show questions tagged &#39;software-installation&#39;" rel="tag">software-installation</a> <a href="/questions/tagged/python" class="post-tag" title="show questions tagged &#39;python&#39;" rel="tag">python</a> 
+        </div>
+        <div class="started fr">
+            <div class="user-info ">
+    <div class="user-action-time">
+        asked <span title="2018-08-01 15:32:55Z" class="relativetime">15 hours ago</span>
+    </div>
+    <div class="user-gravatar32">
+        <a href="/users/855750/cryptojones"><div class="gravatar-wrapper-32"><img src="https://i.stack.imgur.com/HPjFX.jpg?s=32&amp;g=1" alt="" width="32" height="32"></div></a>
+    </div>
+    <div class="user-details">
+        <a href="/users/855750/cryptojones">CryptoJones</a>
+        <div class="-flair">
+            <span class="reputation-score" title="reputation score " dir="ltr">103</span><span title="4 bronze badges"><span class="badge3"></span><span class="badgecount">4</span></span>
+        </div>
+    </div>
+</div>
+        </div>  
+    </div>
+</div><div class="question-summary" id="question-summary-1061470">
+    <div class="statscontainer">
+        <div class="stats">
+            <div class="vote">
+                <div class="votes">
+                    <span class="vote-count-post "><strong>0</strong></span>
+                    <div class="viewcount">votes</div>
+                </div>
+            </div>
+            <div class="status answered">
+                <strong>1</strong>answer
+            </div>
+        </div>
+        <div class="views " title="11 views">
+    11 views
+</div>
+    </div>
+    <div class="summary">
+        <h3><a href="/questions/1061470/setup-system-vpn-in-ubuntu-17-10" class="question-hyperlink">Setup system VPN in Ubuntu 17.10 [on hold]</a></h3>
+        <div class="excerpt">
+            How do I establish a whole system VPN in Ubuntu 17.10 ?
+
+I tried following the process that's been put on the the web to do the same in v15.10, but unfortunately while running the command 
+  sudo ...
+        </div>          
+        <div class="tags t-package-management t-software-installation t-network-manager t-vpn t-openvpn">
+            <a href="/questions/tagged/package-management" class="post-tag" title="show questions tagged &#39;package-management&#39;" rel="tag">package-management</a> <a href="/questions/tagged/software-installation" class="post-tag" title="show questions tagged &#39;software-installation&#39;" rel="tag">software-installation</a> <a href="/questions/tagged/network-manager" class="post-tag" title="show questions tagged &#39;network-manager&#39;" rel="tag">network-manager</a> <a href="/questions/tagged/vpn" class="post-tag" title="show questions tagged &#39;vpn&#39;" rel="tag">vpn</a> <a href="/questions/tagged/openvpn" class="post-tag" title="show questions tagged &#39;openvpn&#39;" rel="tag">openvpn</a> 
+        </div>
+        <div class="started fr">
+            <div class="user-info ">
+    <div class="user-action-time">
+        asked <span title="2018-08-01 14:42:10Z" class="relativetime">16 hours ago</span>
+    </div>
+    <div class="user-gravatar32">
+        <a href="/users/605441/tnt-heisenberg"><div class="gravatar-wrapper-32"><img src="https://i.stack.imgur.com/3q5hn.jpg?s=32&amp;g=1" alt="" width="32" height="32"></div></a>
+    </div>
+    <div class="user-details">
+        <a href="/users/605441/tnt-heisenberg">TNT.Heisenberg</a>
+        <div class="-flair">
+            <span class="reputation-score" title="reputation score " dir="ltr">1</span>
+        </div>
+    </div>
+</div>
+        </div>  
+    </div>
+</div><div class="question-summary" id="question-summary-1061467">
+    <div class="statscontainer">
+        <div class="stats">
+            <div class="vote">
+                <div class="votes">
+                    <span class="vote-count-post "><strong>0</strong></span>
+                    <div class="viewcount">votes</div>
+                </div>
+            </div>
+            <div class="status unanswered">
+                <strong>0</strong>answers
+            </div>
+        </div>
+        <div class="views " title="5 views">
+    5 views
+</div>
+    </div>
+    <div class="summary">
+        <h3><a href="/questions/1061467/error-direname-missing-operand-while-installing-sql-ledger" class="question-hyperlink">error &ldquo;direname: missing operand&rdquo; while installing sql-ledger</a></h3>
+        <div class="excerpt">
+            I'm trying to install Sql-ledger which is a web based accounting software on my laptop as local host. 
+
+php ans sql data base is working properly. (tested)
+
+when sql-ledger is installing, which ...
+        </div>          
+        <div class="tags t-software-installation">
+            <a href="/questions/tagged/software-installation" class="post-tag" title="show questions tagged &#39;software-installation&#39;" rel="tag">software-installation</a> 
+        </div>
+        <div class="started fr">
+            <div class="user-info ">
+    <div class="user-action-time">
+        asked <span title="2018-08-01 14:37:20Z" class="relativetime">16 hours ago</span>
+    </div>
+    <div class="user-gravatar32">
+        <a href="/users/706129/mirza"><div class="gravatar-wrapper-32"><img src="https://i.stack.imgur.com/0qElO.jpg?s=32&amp;g=1" alt="" width="32" height="32"></div></a>
+    </div>
+    <div class="user-details">
+        <a href="/users/706129/mirza">Mirza</a>
+        <div class="-flair">
+            <span class="reputation-score" title="reputation score " dir="ltr">111</span><span title="1 silver badge"><span class="badge2"></span><span class="badgecount">1</span></span><span title="16 bronze badges"><span class="badge3"></span><span class="badgecount">16</span></span>
+        </div>
+    </div>
+</div>
+        </div>  
+    </div>
+</div><div class="question-summary" id="question-summary-1061431">
+    <div class="statscontainer">
+        <div class="stats">
+            <div class="vote">
+                <div class="votes">
+                    <span class="vote-count-post "><strong>1</strong></span>
+                    <div class="viewcount">vote</div>
+                </div>
+            </div>
+            <div class="status answered">
+                <strong>2</strong>answers
+            </div>
+        </div>
+        <div class="views " title="27 views">
+    27 views
+</div>
+    </div>
+    <div class="summary">
+        <h3><a href="/questions/1061431/how-to-have-both-libcurl3-and-libcurl4-installed-at-same-time" class="question-hyperlink">How to have both libcurl3 and libcurl4 installed at same time?</a></h3>
+        <div class="excerpt">
+            My favorite web brower depends on libcurl3 (Opera 36.0) But many apps depends on libcurl4 including PlayOnLinux or Steam client. It will be nice to have PlayOnLinux or Steam installed but I'm not ...
+        </div>          
+        <div class="tags t-software-installation t-18û04 t-libraries">
+            <a href="/questions/tagged/software-installation" class="post-tag" title="show questions tagged &#39;software-installation&#39;" rel="tag">software-installation</a> <a href="/questions/tagged/18.04" class="post-tag" title="show questions tagged &#39;18.04&#39;" rel="tag">18.04</a> <a href="/questions/tagged/libraries" class="post-tag" title="show questions tagged &#39;libraries&#39;" rel="tag">libraries</a> 
+        </div>
+        <div class="started fr">
+            <div class="user-info ">
+    <div class="user-action-time">
+        asked <span title="2018-08-01 11:46:48Z" class="relativetime">19 hours ago</span>
+    </div>
+    <div class="user-gravatar32">
+        <a href="/users/814675/garrom"><div class="gravatar-wrapper-32"><img src="https://www.gravatar.com/avatar/1c215abfaf9250726de9dbe0ab53189b?s=32&amp;d=identicon&amp;r=PG" alt="" width="32" height="32"></div></a>
+    </div>
+    <div class="user-details">
+        <a href="/users/814675/garrom">Garrom</a>
+        <div class="-flair">
+            <span class="reputation-score" title="reputation score " dir="ltr">263</span><span title="1 gold badge"><span class="badge1"></span><span class="badgecount">1</span></span><span title="2 silver badges"><span class="badge2"></span><span class="badgecount">2</span></span><span title="14 bronze badges"><span class="badge3"></span><span class="badgecount">14</span></span>
+        </div>
+    </div>
+</div>
+        </div>  
+    </div>
+</div><div class="question-summary" id="question-summary-1061382">
+    <div class="statscontainer">
+        <div class="stats">
+            <div class="vote">
+                <div class="votes">
+                    <span class="vote-count-post "><strong>0</strong></span>
+                    <div class="viewcount">votes</div>
+                </div>
+            </div>
+            <div class="status answered-accepted">
+                <strong>1</strong>answer
+            </div>
+        </div>
+        <div class="views " title="22 views">
+    22 views
+</div>
+    </div>
+    <div class="summary">
+        <h3><a href="/questions/1061382/is-there-a-package-installer-in-which-a-i-can-choose-where-to-install" class="question-hyperlink">Is there a package installer in which a i can choose where to install?</a></h3>
+        <div class="excerpt">
+            Since changing the installation path or directory of dpkg is not a good and risky idea I would like to know if there are any package installers in which I can choose to install where I want since my ...
+        </div>          
+        <div class="tags t-software-installation t-dpkg t-directory t-paths">
+            <a href="/questions/tagged/software-installation" class="post-tag" title="show questions tagged &#39;software-installation&#39;" rel="tag">software-installation</a> <a href="/questions/tagged/dpkg" class="post-tag" title="show questions tagged &#39;dpkg&#39;" rel="tag">dpkg</a> <a href="/questions/tagged/directory" class="post-tag" title="show questions tagged &#39;directory&#39;" rel="tag">directory</a> <a href="/questions/tagged/paths" class="post-tag" title="show questions tagged &#39;paths&#39;" rel="tag">paths</a> 
+        </div>
+        <div class="started fr">
+            <div class="user-info ">
+    <div class="user-action-time">
+        asked <span title="2018-08-01 08:59:36Z" class="relativetime">21 hours ago</span>
+    </div>
+    <div class="user-gravatar32">
+        <a href="/users/844905/sadad-ali"><div class="gravatar-wrapper-32"><img src="https://i.stack.imgur.com/w4hUy.jpg?s=32&amp;g=1" alt="" width="32" height="32"></div></a>
+    </div>
+    <div class="user-details">
+        <a href="/users/844905/sadad-ali">sadad ali</a>
+        <div class="-flair">
+            <span class="reputation-score" title="reputation score " dir="ltr">3</span><span title="1 bronze badge"><span class="badge3"></span><span class="badgecount">1</span></span>
+        </div>
+    </div>
+</div>
+        </div>  
+    </div>
+</div><div class="question-summary" id="question-summary-1061336">
+    <div class="statscontainer">
+        <div class="stats">
+            <div class="vote">
+                <div class="votes">
+                    <span class="vote-count-post "><strong>0</strong></span>
+                    <div class="viewcount">votes</div>
+                </div>
+            </div>
+            <div class="status unanswered">
+                <strong>0</strong>answers
+            </div>
+        </div>
+        <div class="views " title="7 views">
+    7 views
+</div>
+    </div>
+    <div class="summary">
+        <h3><a href="/questions/1061336/problem-installing-oracle-10g-xe-r2-on-ubuntu-14-04" class="question-hyperlink">Problem Installing Oracle 10g XE R2 on ubuntu 14.04</a></h3>
+        <div class="excerpt">
+            Im facing the below error on installing oracle 10g XE R2 in ubuntu 14.04. 
+root@ubuntu:~/Downloads# dpkg -i oracle-xe_10.2.0.1-1.0_i386.deb
+(Reading database ... 202492 files and directories ...
+        </div>          
+        <div class="tags t-14û04 t-software-installation t-dpkg t-oracle">
+            <a href="/questions/tagged/14.04" class="post-tag" title="show questions tagged &#39;14.04&#39;" rel="tag">14.04</a> <a href="/questions/tagged/software-installation" class="post-tag" title="show questions tagged &#39;software-installation&#39;" rel="tag">software-installation</a> <a href="/questions/tagged/dpkg" class="post-tag" title="show questions tagged &#39;dpkg&#39;" rel="tag">dpkg</a> <a href="/questions/tagged/oracle" class="post-tag" title="show questions tagged &#39;oracle&#39;" rel="tag">oracle</a> 
+        </div>
+        <div class="started fr">
+            <div class="user-info ">
+    <div class="user-action-time">
+        asked <span title="2018-08-01 06:49:21Z" class="relativetime">yesterday</span>
+    </div>
+    <div class="user-gravatar32">
+        <a href="/users/652071/azardin"><div class="gravatar-wrapper-32"><img src="https://www.gravatar.com/avatar/030ce556b95037ab5f02141ea083c3a3?s=32&amp;d=identicon&amp;r=PG&amp;f=1" alt="" width="32" height="32"></div></a>
+    </div>
+    <div class="user-details">
+        <a href="/users/652071/azardin">azardin</a>
+        <div class="-flair">
+            <span class="reputation-score" title="reputation score " dir="ltr">52</span><span title="1 silver badge"><span class="badge2"></span><span class="badgecount">1</span></span><span title="9 bronze badges"><span class="badge3"></span><span class="badgecount">9</span></span>
+        </div>
+    </div>
+</div>
+        </div>  
+    </div>
+</div><div class="question-summary" id="question-summary-1061209">
+    <div class="statscontainer">
+        <div class="stats">
+            <div class="vote">
+                <div class="votes">
+                    <span class="vote-count-post "><strong>0</strong></span>
+                    <div class="viewcount">votes</div>
+                </div>
+            </div>
+            <div class="status unanswered">
+                <strong>0</strong>answers
+            </div>
+        </div>
+        <div class="views " title="24 views">
+    24 views
+</div>
+    </div>
+    <div class="summary">
+        <h3><a href="/questions/1061209/cant-install-anything-or-do-a-dist-upgrade-or-updates" class="question-hyperlink">Cant install anything or do a dist upgrade or updates [on hold]</a></h3>
+        <div class="excerpt">
+            I have had strange issues with Ubuntu 17.04 crashing and behaving odd.
+Now I think there is some corrupt files which makes updating and downloading anything impossible. Problem is that I don't know ...
+        </div>          
+        <div class="tags t-networking t-software-installation t-17û04">
+            <a href="/questions/tagged/networking" class="post-tag" title="show questions tagged &#39;networking&#39;" rel="tag">networking</a> <a href="/questions/tagged/software-installation" class="post-tag" title="show questions tagged &#39;software-installation&#39;" rel="tag">software-installation</a> <a href="/questions/tagged/17.04" class="post-tag" title="show questions tagged &#39;17.04&#39;" rel="tag">17.04</a> 
+        </div>
+        <div class="started fr">
+            <div class="user-info ">
+    <div class="user-action-time">
+        asked <span title="2018-07-31 19:26:22Z" class="relativetime">yesterday</span>
+    </div>
+    <div class="user-gravatar32">
+        <a href="/users/855458/aron-marduk"><div class="gravatar-wrapper-32"><img src="https://lh4.googleusercontent.com/-rZPf_qei6oo/AAAAAAAAAAI/AAAAAAAAAAA/AAnnY7q6J6DIgsKDM1EbSvDc7jJ1JRkAGA/mo/photo.jpg?sz=32" alt="" width="32" height="32"></div></a>
+    </div>
+    <div class="user-details">
+        <a href="/users/855458/aron-marduk">Aron Marduk</a>
+        <div class="-flair">
+            <span class="reputation-score" title="reputation score " dir="ltr">1</span>
+        </div>
+    </div>
+</div>
+        </div>  
+    </div>
+</div><div class="question-summary" id="question-summary-1061180">
+    <div class="statscontainer">
+        <div class="stats">
+            <div class="vote">
+                <div class="votes">
+                    <span class="vote-count-post "><strong>0</strong></span>
+                    <div class="viewcount">votes</div>
+                </div>
+            </div>
+            <div class="status unanswered">
+                <strong>0</strong>answers
+            </div>
+        </div>
+        <div class="views " title="15 views">
+    15 views
+</div>
+    </div>
+    <div class="summary">
+        <h3><a href="/questions/1061180/undervolt-thinkpad-t430-i5-3230m" class="question-hyperlink">undervolt Thinkpad T430, i5 3230M</a></h3>
+        <div class="excerpt">
+            I am a noob at Linux (ubuntu), and I am trying learn undervolting.
+I tried https://github.com/georgewhewell/undervolt
+but couldn't do anything after installation.
+it reports that:
+"command not found".
+...
+        </div>          
+        <div class="tags t-software-installation t-18û04 t-cpu t-thinkpad t-gpu">
+            <a href="/questions/tagged/software-installation" class="post-tag" title="show questions tagged &#39;software-installation&#39;" rel="tag">software-installation</a> <a href="/questions/tagged/18.04" class="post-tag" title="show questions tagged &#39;18.04&#39;" rel="tag">18.04</a> <a href="/questions/tagged/cpu" class="post-tag" title="show questions tagged &#39;cpu&#39;" rel="tag">cpu</a> <a href="/questions/tagged/thinkpad" class="post-tag" title="show questions tagged &#39;thinkpad&#39;" rel="tag">thinkpad</a> <a href="/questions/tagged/gpu" class="post-tag" title="show questions tagged &#39;gpu&#39;" rel="tag">gpu</a> 
+        </div>
+        <div class="started fr">
+            <div class="user-info ">
+    <div class="user-action-time">
+        asked <span title="2018-07-31 17:06:20Z" class="relativetime">yesterday</span>
+    </div>
+    <div class="user-gravatar32">
+        <a href="/users/855426/vin"><div class="gravatar-wrapper-32"><img src="https://graph.facebook.com/1091416227677560/picture?type=large" alt="" width="32" height="32"></div></a>
+    </div>
+    <div class="user-details">
+        <a href="/users/855426/vin">VIN</a>
+        <div class="-flair">
+            <span class="reputation-score" title="reputation score " dir="ltr">1</span><span title="1 bronze badge"><span class="badge3"></span><span class="badgecount">1</span></span>
+        </div>
+    </div>
+</div>
+        </div>  
+    </div>
+</div><div class="question-summary" id="question-summary-1061172">
+    <div class="statscontainer">
+        <div class="stats">
+            <div class="vote">
+                <div class="votes">
+                    <span class="vote-count-post "><strong>0</strong></span>
+                    <div class="viewcount">votes</div>
+                </div>
+            </div>
+            <div class="status answered-accepted">
+                <strong>1</strong>answer
+            </div>
+        </div>
+        <div class="views " title="52 views">
+    52 views
+</div>
+    </div>
+    <div class="summary">
+        <h3><a href="/questions/1061172/cant-install-midnight-commander" class="question-hyperlink">Can&#39;t install Midnight Commander [duplicate]</a></h3>
+        <div class="excerpt">
+            How do I install "Double Commander" or "Midnight Commander" file managers in Ubuntu 18.04?
+
+I tried to install Midnight Commander with sudo apt-get install mc but got 
+
+Reading package lists... Done
+...
+        </div>          
+        <div class="tags t-software-installation t-18û04">
+            <a href="/questions/tagged/software-installation" class="post-tag" title="show questions tagged &#39;software-installation&#39;" rel="tag">software-installation</a> <a href="/questions/tagged/18.04" class="post-tag" title="show questions tagged &#39;18.04&#39;" rel="tag">18.04</a> 
+        </div>
+        <div class="started fr">
+            <div class="user-info ">
+    <div class="user-action-time">
+        asked <span title="2018-07-31 16:47:59Z" class="relativetime">yesterday</span>
+    </div>
+    <div class="user-gravatar32">
+        <a href="/users/746407/dorian"><div class="gravatar-wrapper-32"><img src="https://www.gravatar.com/avatar/fa78d40de4c947ba545047dcb23b3684?s=32&amp;d=identicon&amp;r=PG&amp;f=1" alt="" width="32" height="32"></div></a>
+    </div>
+    <div class="user-details">
+        <a href="/users/746407/dorian">Dorian</a>
+        <div class="-flair">
+            <span class="reputation-score" title="reputation score " dir="ltr">3</span><span title="1 bronze badge"><span class="badge3"></span><span class="badgecount">1</span></span>
+        </div>
+    </div>
+</div>
+        </div>  
+    </div>
+</div><div class="question-summary" id="question-summary-1061165">
+    <div class="statscontainer">
+        <div class="stats">
+            <div class="vote">
+                <div class="votes">
+                    <span class="vote-count-post "><strong>0</strong></span>
+                    <div class="viewcount">votes</div>
+                </div>
+            </div>
+            <div class="status unanswered">
+                <strong>0</strong>answers
+            </div>
+        </div>
+        <div class="views " title="11 views">
+    11 views
+</div>
+    </div>
+    <div class="summary">
+        <h3><a href="/questions/1061165/tuxcut-icon-apper-with-reloading-animation-and-the-application-didnt-start" class="question-hyperlink">tuxcut icon apper with reloading animation and the application didn&#39;t start</a></h3>
+        <div class="excerpt">
+            I installed tuxcut from this link How to install tuxcut?
+from the first answer and the application added to my applications but when I start it, only its icon appears with reloading animation next to ...
+        </div>          
+        <div class="tags t-software-installation">
+            <a href="/questions/tagged/software-installation" class="post-tag" title="show questions tagged &#39;software-installation&#39;" rel="tag">software-installation</a> 
+        </div>
+        <div class="started fr">
+            <div class="user-info ">
+    <div class="user-action-time">
+        asked <span title="2018-07-31 16:20:01Z" class="relativetime">yesterday</span>
+    </div>
+    <div class="user-gravatar32">
+        <a href="/users/855399/khaled-galal"><div class="gravatar-wrapper-32"><img src="https://www.gravatar.com/avatar/0ea80b1c1ae7fbb2aea42c4e244fb613?s=32&amp;d=identicon&amp;r=PG&amp;f=1" alt="" width="32" height="32"></div></a>
+    </div>
+    <div class="user-details">
+        <a href="/users/855399/khaled-galal">Khaled Galal</a>
+        <div class="-flair">
+            <span class="reputation-score" title="reputation score " dir="ltr">1</span><span title="1 bronze badge"><span class="badge3"></span><span class="badgecount">1</span></span>
+        </div>
+    </div>
+</div>
+        </div>  
+    </div>
+</div><div class="question-summary" id="question-summary-1061144">
+    <div class="statscontainer">
+        <div class="stats">
+            <div class="vote">
+                <div class="votes">
+                    <span class="vote-count-post "><strong>0</strong></span>
+                    <div class="viewcount">votes</div>
+                </div>
+            </div>
+            <div class="status answered">
+                <strong>1</strong>answer
+            </div>
+        </div>
+        <div class="views " title="13 views">
+    13 views
+</div>
+    </div>
+    <div class="summary">
+        <h3><a href="/questions/1061144/error-output-while-installing-node" class="question-hyperlink">Error output while installing node</a></h3>
+        <div class="excerpt">
+            screenshot
+hello there,
+Am trying to install Phonegap, in the process i have to install node, the picture is the error output while installing node
+        </div>          
+        <div class="tags t-software-installation t-nodejs">
+            <a href="/questions/tagged/software-installation" class="post-tag" title="show questions tagged &#39;software-installation&#39;" rel="tag">software-installation</a> <a href="/questions/tagged/nodejs" class="post-tag" title="show questions tagged &#39;nodejs&#39;" rel="tag">nodejs</a> 
+        </div>
+        <div class="started fr">
+            <div class="user-info ">
+    <div class="user-action-time">
+        asked <span title="2018-07-31 15:17:22Z" class="relativetime">yesterday</span>
+    </div>
+    <div class="user-gravatar32">
+        <a href="/users/855375/gabriel-opeyemi"><div class="gravatar-wrapper-32"><img src="https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg?sz=32" alt="" width="32" height="32"></div></a>
+    </div>
+    <div class="user-details">
+        <a href="/users/855375/gabriel-opeyemi">Gabriel Opeyemi</a>
+        <div class="-flair">
+            <span class="reputation-score" title="reputation score " dir="ltr">1</span><span title="1 bronze badge"><span class="badge3"></span><span class="badgecount">1</span></span>
+        </div>
+    </div>
+</div>
+        </div>  
+    </div>
+</div><div class="question-summary" id="question-summary-1061017">
+    <div class="statscontainer">
+        <div class="stats">
+            <div class="vote">
+                <div class="votes">
+                    <span class="vote-count-post "><strong>0</strong></span>
+                    <div class="viewcount">votes</div>
+                </div>
+            </div>
+            <div class="status unanswered">
+                <strong>0</strong>answers
+            </div>
+        </div>
+        <div class="views " title="17 views">
+    17 views
+</div>
+    </div>
+    <div class="summary">
+        <h3><a href="/questions/1061017/how-to-remove-faulty-gpu-drivers" class="question-hyperlink">How to remove faulty GPU drivers</a></h3>
+        <div class="excerpt">
+            Due to the bug introduced by the new drivers it seems I need to reinstall see link.
+
+Ubuntu 18.04 boot stuck at message “Started NVIDIA Persistence Daemon” after installing nVidia 390.74
+
+When I boot ...
+        </div>          
+        <div class="tags t-dual-boot t-drivers t-partitioning t-software-installation t-graphics">
+            <a href="/questions/tagged/dual-boot" class="post-tag" title="show questions tagged &#39;dual-boot&#39;" rel="tag">dual-boot</a> <a href="/questions/tagged/drivers" class="post-tag" title="show questions tagged &#39;drivers&#39;" rel="tag">drivers</a> <a href="/questions/tagged/partitioning" class="post-tag" title="show questions tagged &#39;partitioning&#39;" rel="tag">partitioning</a> <a href="/questions/tagged/software-installation" class="post-tag" title="show questions tagged &#39;software-installation&#39;" rel="tag">software-installation</a> <a href="/questions/tagged/graphics" class="post-tag" title="show questions tagged &#39;graphics&#39;" rel="tag">graphics</a> 
+        </div>
+        <div class="started fr">
+            <div class="user-info ">
+    <div class="user-action-time">
+        asked <span title="2018-07-31 07:35:02Z" class="relativetime">yesterday</span>
+    </div>
+    <div class="user-gravatar32">
+        <a href="/users/734434/bazman"><div class="gravatar-wrapper-32"><img src="https://www.gravatar.com/avatar/e99349c72fc90171dd066ec5fd143855?s=32&amp;d=identicon&amp;r=PG" alt="" width="32" height="32"></div></a>
+    </div>
+    <div class="user-details">
+        <a href="/users/734434/bazman">Bazman</a>
+        <div class="-flair">
+            <span class="reputation-score" title="reputation score " dir="ltr">185</span><span title="1 gold badge"><span class="badge1"></span><span class="badgecount">1</span></span><span title="2 silver badges"><span class="badge2"></span><span class="badgecount">2</span></span><span title="11 bronze badges"><span class="badge3"></span><span class="badgecount">11</span></span>
+        </div>
+    </div>
+</div>
+        </div>  
+    </div>
+</div>
+        </div>
+
+        <br class="cbt" />
+<div class="pager fl">
+        
+
+
+
+
+ <span class="page-numbers current">1</span>         <a href="/questions/tagged/software-installation?page=2&amp;sort=newest&amp;pagesize=15" title="go to page 2"> <span class="page-numbers">2</span> </a> 
+        <a href="/questions/tagged/software-installation?page=3&amp;sort=newest&amp;pagesize=15" title="go to page 3"> <span class="page-numbers">3</span> </a> 
+        <a href="/questions/tagged/software-installation?page=4&amp;sort=newest&amp;pagesize=15" title="go to page 4"> <span class="page-numbers">4</span> </a> 
+        <a href="/questions/tagged/software-installation?page=5&amp;sort=newest&amp;pagesize=15" title="go to page 5"> <span class="page-numbers">5</span> </a> 
+ <span class="page-numbers dots">…</span>         <a href="/questions/tagged/software-installation?page=447&amp;sort=newest&amp;pagesize=15" title="go to page 447"> <span class="page-numbers">447</span> </a> 
+        <a href="/questions/tagged/software-installation?page=2&amp;sort=newest&amp;pagesize=15" rel="next" title="go to page 2"> <span class="page-numbers next"> next</span> </a> 
+
+    </div><div class="page-sizer fr">
+            <a href="/questions/tagged/software-installation?sort=newest&pagesize=15" title="show 15 items per page" class="page-numbers current">15</a>
+            <a href="/questions/tagged/software-installation?sort=newest&pagesize=30" title="show 30 items per page" class="page-numbers ">30</a>
+            <a href="/questions/tagged/software-installation?sort=newest&pagesize=50" title="show 50 items per page" class="page-numbers ">50</a>
+        <span class="page-numbers desc">per page</span>
+    </div>
+    </div>
+    <div id="sidebar">
+            <div class="module" id="questions-count">
+                <div class="-details">
+                    <div class="summarycount al">6,691</div>
+                    <p>questions tagged</p>
+                    <div class="tagged">
+                        <a href="/questions/tagged/software-installation" class="post-tag" title="show questions tagged &#39;software-installation&#39;" rel="tag">software-installation</a> 
+                            <a style="margin-left: 10px;" title="tag wiki, stats and faq" href="/tags/software-installation/info">about&nbsp;&raquo;</a>
+                    </div>
+                </div>
+                
+
+
+
+            </div>
+
+        
+
+        
+
+<div id="dfp-tsb" class="everyonelovesstackoverflow everyoneloves__top-sidebar"></div>
+            <div id="hireme"></div>
+<script>;try{(function(a){function b(a){return'string'==typeof a?document.getElementById(a):a}function c(a){return a=b(a),!!a&&'none'===getComputedStyle(a).display}function d(a){return!c(a)}function e(a){return!!a}function f(a){return /^\s*$/.test(b(a).innerHTML)}function g(a){var b=a.style;b.height=b.maxHeight=b.minHeight='auto',b.display='none',[].forEach.call(a.children,g)}function h(a,b){var c;return function(){return a&&(c=a.call(b||this,arguments),a=null),c}}function i(a){var b=document.createElement('script');b.src=a,document.body.appendChild(b)}function j(a){return k([],a)}function k(a,b){return a.push=function(a){return b(),delete this.push,this.push(a)},a}function l(){try{return!new Function('return async()=>{};')}catch(a){return!0}}function m(){return'undefined'!=typeof googletag&&!!googletag.apiReady}function n(){m()||(googletag={cmd:j(A)})}function o(){var a=document.createElement('div');a.className='adsbox',a.id='clc-abd',a.style.position='absolute',a.style.pointerEvents='none',a.innerHTML='&nbsp;',document.body.appendChild(a)}function p(a){var b=a.serviceName,c=a.slot,d=a.lineItemId;try{var e=c.getSlotElementId(),f=[];e||f.push('id=0');var h=document.getElementById(e);if(!e||h?h.hasAttribute('data-clc-stalled')&&f.push('st=1'):f.push('el=0'),0!==f.length)return void B(f.join('&'));-1===x.dh.indexOf(d)?h.setAttribute('data-clc-prefilled','true'):g(h),h.setAttribute('data-clc-ready','true')}catch(a){var i=document.querySelector('#dfp-tsb, #dfp-isb, #clc-tsb');i&&i.setAttribute('data-clc-ready','true'),B('e=1')}}function q(){return Object.keys(F.ids)}function r(a){var b=F.ids[a],c=F.slots[b];'function'==typeof c&&(c=c(a));return{path:'/'+C+'/'+E+'/'+b+'/'+D,sizes:c,zone:b}}function s(a){return!(clc.collapse&&void 0!==clc.collapse[a])||!!clc.collapse[a]}function t(a,b){'dfp-isb'===a&&b.setTargeting('Sidebar',['Inline']),'dfp-tsb'===a&&b.setTargeting('Sidebar',['Right']);var c=r(a),d=c.path,e=c.sizes,f=c.zone,g=googletag.defineSlot(d,e,a);s(f)&&g.setCollapseEmptyDiv(!0,!0),g.addService(b),!1}function u(b){var c=a.dfp&&a.dfp.targeting||{};Object.keys(c).forEach(function(a){b.setTargeting(a,c[a])})}function v(a){var g=a.map(b).filter(e);return{eligible:g.filter(f).filter(d).map(function(a){return a.id}),ineligible:g.filter(c)}}function w(b){if(void 0===b&&(b=q()),!m())return n(),void googletag.cmd.push(function(){return w(b)});var c=v(b),d=c.eligible,e=c.ineligible;if(e.forEach(g),0!==d.length){o(),googletag.destroySlots();var f=googletag.pubads();f.enableSingleRequest(),a.sreEvent||(f.addEventListener('slotRenderEnded',p),a.sreEvent=!0),u(f),d.forEach(function(a){return t(a,f)}),googletag.enableServices(),d.forEach(function(a){googletag.display(a)})}}var x=function(a){for(var b=[],c=1;c<arguments.length;c++)b[c-1]=arguments[c];for(var d,e=0,f=b;e<f.length;e++)for(var g in d=f[e],d)a[g]=d[g];return a}({"lib":"https://cdn.sstatic.net/clc/clc.min.js?v=04d772c81312","style":"https://cdn.sstatic.net/clc/styles/clc.min.css?v=f28c677e209b","u":"https://clc.stackoverflow.com/markup.js","wa":true,"kt":2000,"tto":true,"h":"clc.stackoverflow.com","allowed":"^(((talent\\.)?stackoverflow)|(blog\\.codinghorror)|(serverfault|askubuntu)|([^\\.]+\\.stackexchange))\\.com$","wv":true,"al":false,"dh":[4385506061,4386578282,4386579572]},a.options||{}),y=h(function(){i(l()?x.lib.replace(/(\.min)?\.js(\?v=[0-9a-fA-F]+)?$/,'.ie$1.js$2'):x.lib)}),z=a.cmd||[];Array.isArray(z)&&(0<z.length?y():k(z,y));var A=h(function(){i('https://www.googletagservices.com/tag/js/gpt.js')}),B=function(a){new Image().src='https://'+x.h+'/stalled.gif?'+a},C='248424177',D=/^\/tags\//.test(location.pathname)||/^\/questions\/tagged\//.test(location.pathname)?'tag-pages':'question-pages',E=location.hostname;var F={slots:{lb:[[728,90]],mlb:[[728,90]],sb:function(a){return'dfp-tsb'===a?[[300,250],[300,600]]:[[300,250]]},"tag-sponsorship":[[730,135]],"mobile-below-question":[[320,50],[300,250]]},ids:{"dfp-tlb":'lb',"dfp-mlb":'mlb',"dfp-tsb":'sb',"dfp-isb":'sb',"dfp-tag":'tag-sponsorship',"dfp-m-aq":'mobile-below-question',"clc-tlb":'lb',"clc-mlb":'mlb',"clc-tsb":'sb'}};(function(){x.al&&z.push(function(){return a.load()})})(),n();a.cmd=z,a.dfp={load:w},a.options=x})(this.clc=this.clc||{})}catch(a){window.console.error(a)}</script>            <script>
+                var clc = clc || {};
+                clc.collapse = { sb: !0,'tag-sponsorship':!0,lb:!0,mlb:!0,'mobile-below-question':!0};
+                clc.cmd = clc.cmd || [];
+                clc.cmd.push(function () { window.clc_request='AurVinZF-NUIAAAAAAAAAAAKAAAAAQAAAAAXAAAAfHNvZnR3YXJlLWluc3RhbGxhdGlvbnwArD4EJ1_f69Zoiw'; clc.load(); });
+                                clc.dfp = clc.dfp || {};
+                clc.dfp.targeting = {Registered:['false'],'ron-tag':['software-installation'],Community:['true']};
+                
+                var googletag = googletag || {};
+                googletag.cmd = googletag.cmd || [];
+                googletag.cmd.push(function () { clc.dfp.load(); });
+            </script>        
+            <div class="module js-gps-related-tags">
+                <h4 id="h-related-tags">Related Tags</h4>
+        <div data-name="apt">
+            <a href="/questions/tagged/software-installation+apt" class="post-tag no-tag-menu" title="show questions tagged &#39;software-installation apt&#39;" rel="tag">apt</a>&nbsp;<span class="item-multiplier"><span class="item-multiplier-x">&times;</span>&nbsp;<span class="item-multiplier-count">938</span></span>
+        </div>
+        <div data-name="package-management">
+            <a href="/questions/tagged/software-installation+package-management" class="post-tag no-tag-menu" title="show questions tagged &#39;software-installation package-management&#39;" rel="tag">package-management</a>&nbsp;<span class="item-multiplier"><span class="item-multiplier-x">&times;</span>&nbsp;<span class="item-multiplier-count">610</span></span>
+        </div>
+        <div data-name="14.04">
+            <a href="/questions/tagged/software-installation+14.04" class="post-tag no-tag-menu" title="show questions tagged &#39;software-installation 14.04&#39;" rel="tag">14.04</a>&nbsp;<span class="item-multiplier"><span class="item-multiplier-x">&times;</span>&nbsp;<span class="item-multiplier-count">517</span></span>
+        </div>
+        <div data-name="16.04">
+            <a href="/questions/tagged/software-installation+16.04" class="post-tag no-tag-menu" title="show questions tagged &#39;software-installation 16.04&#39;" rel="tag">16.04</a>&nbsp;<span class="item-multiplier"><span class="item-multiplier-x">&times;</span>&nbsp;<span class="item-multiplier-count">412</span></span>
+        </div>
+        <div data-name="command-line">
+            <a href="/questions/tagged/software-installation+command-line" class="post-tag no-tag-menu" title="show questions tagged &#39;software-installation command-line&#39;" rel="tag">command-line</a>&nbsp;<span class="item-multiplier"><span class="item-multiplier-x">&times;</span>&nbsp;<span class="item-multiplier-count">277</span></span>
+        </div>
+        <div data-name="dependencies">
+            <a href="/questions/tagged/software-installation+dependencies" class="post-tag no-tag-menu" title="show questions tagged &#39;software-installation dependencies&#39;" rel="tag">dependencies</a>&nbsp;<span class="item-multiplier"><span class="item-multiplier-x">&times;</span>&nbsp;<span class="item-multiplier-count">256</span></span>
+        </div>
+        <div data-name="dpkg">
+            <a href="/questions/tagged/software-installation+dpkg" class="post-tag no-tag-menu" title="show questions tagged &#39;software-installation dpkg&#39;" rel="tag">dpkg</a>&nbsp;<span class="item-multiplier"><span class="item-multiplier-x">&times;</span>&nbsp;<span class="item-multiplier-count">249</span></span>
+        </div>
+        <div data-name="python">
+            <a href="/questions/tagged/software-installation+python" class="post-tag no-tag-menu" title="show questions tagged &#39;software-installation python&#39;" rel="tag">python</a>&nbsp;<span class="item-multiplier"><span class="item-multiplier-x">&times;</span>&nbsp;<span class="item-multiplier-count">214</span></span>
+        </div>
+        <div data-name="software-center">
+            <a href="/questions/tagged/software-installation+software-center" class="post-tag no-tag-menu" title="show questions tagged &#39;software-installation software-center&#39;" rel="tag">software-center</a>&nbsp;<span class="item-multiplier"><span class="item-multiplier-x">&times;</span>&nbsp;<span class="item-multiplier-count">212</span></span>
+        </div>
+        <div data-name="compiling">
+            <a href="/questions/tagged/software-installation+compiling" class="post-tag no-tag-menu" title="show questions tagged &#39;software-installation compiling&#39;" rel="tag">compiling</a>&nbsp;<span class="item-multiplier"><span class="item-multiplier-x">&times;</span>&nbsp;<span class="item-multiplier-count">189</span></span>
+        </div>
+        <div class="dno js-hidden" data-name="12.04">
+            <a href="/questions/tagged/software-installation+12.04" class="post-tag no-tag-menu" title="show questions tagged &#39;software-installation 12.04&#39;" rel="tag">12.04</a>&nbsp;<span class="item-multiplier"><span class="item-multiplier-x">&times;</span>&nbsp;<span class="item-multiplier-count">182</span></span>
+        </div>
+        <div class="dno js-hidden" data-name="wine">
+            <a href="/questions/tagged/software-installation+wine" class="post-tag no-tag-menu" title="show questions tagged &#39;software-installation wine&#39;" rel="tag">wine</a>&nbsp;<span class="item-multiplier"><span class="item-multiplier-x">&times;</span>&nbsp;<span class="item-multiplier-count">181</span></span>
+        </div>
+        <div class="dno js-hidden" data-name="java">
+            <a href="/questions/tagged/software-installation+java" class="post-tag no-tag-menu" title="show questions tagged &#39;software-installation java&#39;" rel="tag">java</a>&nbsp;<span class="item-multiplier"><span class="item-multiplier-x">&times;</span>&nbsp;<span class="item-multiplier-count">172</span></span>
+        </div>
+        <div class="dno js-hidden" data-name="updates">
+            <a href="/questions/tagged/software-installation+updates" class="post-tag no-tag-menu" title="show questions tagged &#39;software-installation updates&#39;" rel="tag">updates</a>&nbsp;<span class="item-multiplier"><span class="item-multiplier-x">&times;</span>&nbsp;<span class="item-multiplier-count">116</span></span>
+        </div>
+        <div class="dno js-hidden" data-name="drivers">
+            <a href="/questions/tagged/software-installation+drivers" class="post-tag no-tag-menu" title="show questions tagged &#39;software-installation drivers&#39;" rel="tag">drivers</a>&nbsp;<span class="item-multiplier"><span class="item-multiplier-x">&times;</span>&nbsp;<span class="item-multiplier-count">106</span></span>
+        </div>
+        <div class="dno js-hidden" data-name="system-installation">
+            <a href="/questions/tagged/software-installation+system-installation" class="post-tag no-tag-menu" title="show questions tagged &#39;software-installation system-installation&#39;" rel="tag">system-installation</a>&nbsp;<span class="item-multiplier"><span class="item-multiplier-x">&times;</span>&nbsp;<span class="item-multiplier-count">103</span></span>
+        </div>
+        <div class="dno js-hidden" data-name="18.04">
+            <a href="/questions/tagged/software-installation+18.04" class="post-tag no-tag-menu" title="show questions tagged &#39;software-installation 18.04&#39;" rel="tag">18.04</a>&nbsp;<span class="item-multiplier"><span class="item-multiplier-x">&times;</span>&nbsp;<span class="item-multiplier-count">92</span></span>
+        </div>
+        <div class="dno js-hidden" data-name="ppa">
+            <a href="/questions/tagged/software-installation+ppa" class="post-tag no-tag-menu" title="show questions tagged &#39;software-installation ppa&#39;" rel="tag">ppa</a>&nbsp;<span class="item-multiplier"><span class="item-multiplier-x">&times;</span>&nbsp;<span class="item-multiplier-count">89</span></span>
+        </div>
+        <div class="dno js-hidden" data-name="make">
+            <a href="/questions/tagged/software-installation+make" class="post-tag no-tag-menu" title="show questions tagged &#39;software-installation make&#39;" rel="tag">make</a>&nbsp;<span class="item-multiplier"><span class="item-multiplier-x">&times;</span>&nbsp;<span class="item-multiplier-count">85</span></span>
+        </div>
+        <div class="dno js-hidden" data-name="matlab">
+            <a href="/questions/tagged/software-installation+matlab" class="post-tag no-tag-menu" title="show questions tagged &#39;software-installation matlab&#39;" rel="tag">matlab</a>&nbsp;<span class="item-multiplier"><span class="item-multiplier-x">&times;</span>&nbsp;<span class="item-multiplier-count">82</span></span>
+        </div>
+        <div class="dno js-hidden" data-name="server">
+            <a href="/questions/tagged/software-installation+server" class="post-tag no-tag-menu" title="show questions tagged &#39;software-installation server&#39;" rel="tag">server</a>&nbsp;<span class="item-multiplier"><span class="item-multiplier-x">&times;</span>&nbsp;<span class="item-multiplier-count">80</span></span>
+        </div>
+        <div class="dno js-hidden" data-name="upgrade">
+            <a href="/questions/tagged/software-installation+upgrade" class="post-tag no-tag-menu" title="show questions tagged &#39;software-installation upgrade&#39;" rel="tag">upgrade</a>&nbsp;<span class="item-multiplier"><span class="item-multiplier-x">&times;</span>&nbsp;<span class="item-multiplier-count">77</span></span>
+        </div>
+        <div class="dno js-hidden" data-name="deb">
+            <a href="/questions/tagged/software-installation+deb" class="post-tag no-tag-menu" title="show questions tagged &#39;software-installation deb&#39;" rel="tag">deb</a>&nbsp;<span class="item-multiplier"><span class="item-multiplier-x">&times;</span>&nbsp;<span class="item-multiplier-count">69</span></span>
+        </div>
+        <div class="dno js-hidden" data-name="virtualbox">
+            <a href="/questions/tagged/software-installation+virtualbox" class="post-tag no-tag-menu" title="show questions tagged &#39;software-installation virtualbox&#39;" rel="tag">virtualbox</a>&nbsp;<span class="item-multiplier"><span class="item-multiplier-x">&times;</span>&nbsp;<span class="item-multiplier-count">65</span></span>
+        </div>
+        <div class="dno js-hidden" data-name="64-bit">
+            <a href="/questions/tagged/software-installation+64-bit" class="post-tag no-tag-menu" title="show questions tagged &#39;software-installation 64-bit&#39;" rel="tag">64-bit</a>&nbsp;<span class="item-multiplier"><span class="item-multiplier-x">&times;</span>&nbsp;<span class="item-multiplier-count">60</span></span>
+        </div>
+        <a href="#"
+           class="show-more js-show-more js-gps-track"
+           data-gps-track="related_tags.click({ item_type:2 })">
+            more related tags
+        </a>
+        <script>
+            StackExchange.ready(function () {
+                var $div = $('#h-related-tags').parent();
+                $div.find('.js-show-more').click(function () {
+                    $div.find('.js-hidden').show();
+                    $(this).remove();
+                    return false;
+                });
+            });
+        </script>
+
+            </div>
+
+<div id="hot-network-questions" class="module tex2jax_ignore">
+    <h4>
+        <a href="https://stackexchange.com/questions?tab=hot"
+           class="js-gps-track" 
+           data-gps-track="posts_hot_network.click({ item_type:1, location:9 })">
+            Hot Network Questions
+        </a>
+    </h4>
+    <ul>
+            <li >
+                <div class="favicon favicon-worldbuilding" title="Worldbuilding Stack Exchange"></div><a href="https://worldbuilding.stackexchange.com/questions/119782/logical-reason-why-my-dystopian-government-exiles-rebels-instead-of-killing-them" class="js-gps-track" data-gps-track="site.switch({ item_type:9, target_site:579 }); posts_hot_network.click({ item_type:2, location:9 })">
+                    Logical reason why my dystopian government exiles rebels instead of killing them?
+                </a>
+
+            </li>
+            <li >
+                <div class="favicon favicon-ell" title="English Language Learners Stack Exchange"></div><a href="https://ell.stackexchange.com/questions/174878/what-do-you-call-an-action-that-is-less-serious-than-a-crime" class="js-gps-track" data-gps-track="site.switch({ item_type:9, target_site:481 }); posts_hot_network.click({ item_type:2, location:9 })">
+                    What do you call an action that is less serious than a &quot;crime&quot;?
+                </a>
+
+            </li>
+            <li >
+                <div class="favicon favicon-electronics" title="Electrical Engineering Stack Exchange"></div><a href="https://electronics.stackexchange.com/questions/388745/why-cant-this-lm324-op-amp-reproduce-a-signal-above-a-certain-frequency" class="js-gps-track" data-gps-track="site.switch({ item_type:9, target_site:135 }); posts_hot_network.click({ item_type:2, location:9 })">
+                    Why can&#39;t this LM324 op amp reproduce a signal above a certain frequency?
+                </a>
+
+            </li>
+            <li >
+                <div class="favicon favicon-interpersonal" title="Interpersonal Skills Stack Exchange"></div><a href="https://interpersonal.stackexchange.com/questions/17180/how-to-help-a-friend-through-a-rough-breakup-when-his-actions-are-testing-the-li" class="js-gps-track" data-gps-track="site.switch({ item_type:9, target_site:680 }); posts_hot_network.click({ item_type:2, location:9 })">
+                    How to help a friend through a rough breakup when his actions are testing the limits of my patience?
+                </a>
+
+            </li>
+            <li >
+                <div class="favicon favicon-ell" title="English Language Learners Stack Exchange"></div><a href="https://ell.stackexchange.com/questions/174819/whats-worn-size-large-gloves-referring-to-in-this-context" class="js-gps-track" data-gps-track="site.switch({ item_type:9, target_site:481 }); posts_hot_network.click({ item_type:2, location:9 })">
+                    What&#39;s &quot;worn size &#39;large&#39; gloves&quot; referring to in this context?
+                </a>
+
+            </li>
+            <li >
+                <div class="favicon favicon-space" title="Space Exploration Stack Exchange"></div><a href="https://space.stackexchange.com/questions/29818/what-would-happen-if-a-satellite-took-a-direct-hit-from-a-coronal-mass-ejection" class="js-gps-track" data-gps-track="site.switch({ item_type:9, target_site:508 }); posts_hot_network.click({ item_type:2, location:9 })">
+                    What would happen if a satellite took a direct hit from a coronal mass ejection (CME)?
+                </a>
+
+            </li>
+            <li >
+                <div class="favicon favicon-retrocomputing" title="Retrocomputing Stack Exchange"></div><a href="https://retrocomputing.stackexchange.com/questions/7169/mits-to-dell-the-mail-order-gap" class="js-gps-track" data-gps-track="site.switch({ item_type:9, target_site:648 }); posts_hot_network.click({ item_type:2, location:9 })">
+                    MITS to Dell: the mail order gap?
+                </a>
+
+            </li>
+            <li >
+                <div class="favicon favicon-blender" title="Blender Stack Exchange"></div><a href="https://blender.stackexchange.com/questions/115226/low-poly-modern-2018-standards" class="js-gps-track" data-gps-track="site.switch({ item_type:9, target_site:502 }); posts_hot_network.click({ item_type:2, location:9 })">
+                    Low Poly Modern (2018) Standards?
+                </a>
+
+            </li>
+            <li >
+                <div class="favicon favicon-security" title="Information Security Stack Exchange"></div><a href="https://security.stackexchange.com/questions/190796/chrome-generated-passwords-not-high-entropy" class="js-gps-track" data-gps-track="site.switch({ item_type:9, target_site:162 }); posts_hot_network.click({ item_type:2, location:9 })">
+                    Chrome generated passwords not high entropy?
+                </a>
+
+            </li>
+            <li >
+                <div class="favicon favicon-electronics" title="Electrical Engineering Stack Exchange"></div><a href="https://electronics.stackexchange.com/questions/388893/help-understanding-selecting-smps-to-drive-capacitive-load" class="js-gps-track" data-gps-track="site.switch({ item_type:9, target_site:135 }); posts_hot_network.click({ item_type:2, location:9 })">
+                    Help understanding/selecting SMPS to drive capacitive load
+                </a>
+
+            </li>
+            <li >
+                <div class="favicon favicon-interpersonal" title="Interpersonal Skills Stack Exchange"></div><a href="https://interpersonal.stackexchange.com/questions/17130/reclaiming-my-desk-fan-when-the-office-i-lent-it-to-is-also-really-hot" class="js-gps-track" data-gps-track="site.switch({ item_type:9, target_site:680 }); posts_hot_network.click({ item_type:2, location:9 })">
+                    Reclaiming my desk fan when the office I lent it to is also really hot
+                </a>
+
+            </li>
+            <li >
+                <div class="favicon favicon-worldbuilding" title="Worldbuilding Stack Exchange"></div><a href="https://worldbuilding.stackexchange.com/questions/120007/which-professions-warranted-travel-in-medieval-times" class="js-gps-track" data-gps-track="site.switch({ item_type:9, target_site:579 }); posts_hot_network.click({ item_type:2, location:9 })">
+                    Which professions warranted travel in Medieval times?
+                </a>
+
+            </li>
+            <li class="dno js-hidden">
+                <div class="favicon favicon-scifi" title="Science Fiction &amp; Fantasy Stack Exchange"></div><a href="https://scifi.stackexchange.com/questions/192068/were-the-backwards-lyrics-correct-in-mary-poppins-supercalifragilisticexpialidoc" class="js-gps-track" data-gps-track="site.switch({ item_type:9, target_site:186 }); posts_hot_network.click({ item_type:2, location:9 })">
+                    Were the backwards lyrics correct in Mary Poppins Supercalifragilisticexpialidocious?
+                </a>
+
+            </li>
+            <li class="dno js-hidden">
+                <div class="favicon favicon-mathematica" title="Mathematica Stack Exchange"></div><a href="https://mathematica.stackexchange.com/questions/179364/confusing-behavior-when-passing-a-variable-vs-inlining-a-function-call" class="js-gps-track" data-gps-track="site.switch({ item_type:9, target_site:387 }); posts_hot_network.click({ item_type:2, location:9 })">
+                    Confusing behavior when passing a variable vs. inlining a function call
+                </a>
+
+            </li>
+            <li class="dno js-hidden">
+                <div class="favicon favicon-worldbuilding" title="Worldbuilding Stack Exchange"></div><a href="https://worldbuilding.stackexchange.com/questions/120090/dirigibles-feasibility-as-effective-aircraft-carriers" class="js-gps-track" data-gps-track="site.switch({ item_type:9, target_site:579 }); posts_hot_network.click({ item_type:2, location:9 })">
+                    Dirigibles: Feasibility as (Effective) Aircraft Carriers
+                </a>
+
+            </li>
+            <li class="dno js-hidden">
+                <div class="favicon favicon-worldbuilding" title="Worldbuilding Stack Exchange"></div><a href="https://worldbuilding.stackexchange.com/questions/120038/in-what-situation-could-royalty-and-organised-crime-lords-mix" class="js-gps-track" data-gps-track="site.switch({ item_type:9, target_site:579 }); posts_hot_network.click({ item_type:2, location:9 })">
+                    In what situation could royalty and organised crime lords mix?
+                </a>
+
+            </li>
+            <li class="dno js-hidden">
+                <div class="favicon favicon-superuser" title="Super User"></div><a href="https://superuser.com/questions/1345305/what-is-the-purpose-function-of-%ce%b2%ce%b2%ce%b2-files" class="js-gps-track" data-gps-track="site.switch({ item_type:9, target_site:3 }); posts_hot_network.click({ item_type:2, location:9 })">
+                    What is the purpose/function of &quot;.βββ&quot; files?
+                </a>
+
+            </li>
+            <li class="dno js-hidden">
+                <div class="favicon favicon-scifi" title="Science Fiction &amp; Fantasy Stack Exchange"></div><a href="https://scifi.stackexchange.com/questions/192171/story-identification-criminal-being-adjusted" class="js-gps-track" data-gps-track="site.switch({ item_type:9, target_site:186 }); posts_hot_network.click({ item_type:2, location:9 })">
+                    Story identification - Criminal being &quot;adjusted&quot;
+                </a>
+
+            </li>
+            <li class="dno js-hidden">
+                <div class="favicon favicon-worldbuilding" title="Worldbuilding Stack Exchange"></div><a href="https://worldbuilding.stackexchange.com/questions/119942/logical-reason-why-dystopian-government-controls-what-people-wear" class="js-gps-track" data-gps-track="site.switch({ item_type:9, target_site:579 }); posts_hot_network.click({ item_type:2, location:9 })">
+                    Logical reason why dystopian government controls what people wear?
+                </a>
+
+            </li>
+            <li class="dno js-hidden">
+                <div class="favicon favicon-unix" title="Unix &amp; Linux Stack Exchange"></div><a href="https://unix.stackexchange.com/questions/459866/change-some-file-names-prefix-to-postfix" class="js-gps-track" data-gps-track="site.switch({ item_type:9, target_site:106 }); posts_hot_network.click({ item_type:2, location:9 })">
+                    Change some file names (prefix to postfix)
+                </a>
+
+            </li>
+            <li class="dno js-hidden">
+                <div class="favicon favicon-interpersonal" title="Interpersonal Skills Stack Exchange"></div><a href="https://interpersonal.stackexchange.com/questions/17147/complimenting-a-female-co-worker-without-coming-across-as-flirting" class="js-gps-track" data-gps-track="site.switch({ item_type:9, target_site:680 }); posts_hot_network.click({ item_type:2, location:9 })">
+                    Complimenting a female co-worker without coming across as flirting?
+                </a>
+
+            </li>
+            <li class="dno js-hidden">
+                <div class="favicon favicon-space" title="Space Exploration Stack Exchange"></div><a href="https://space.stackexchange.com/questions/29794/why-cant-falcon-9-fairings-touch-the-water" class="js-gps-track" data-gps-track="site.switch({ item_type:9, target_site:508 }); posts_hot_network.click({ item_type:2, location:9 })">
+                    Why can&#39;t Falcon 9 fairings touch the water?
+                </a>
+
+            </li>
+            <li class="dno js-hidden">
+                <div class="favicon favicon-linguistics" title="Linguistics Stack Exchange"></div><a href="https://linguistics.stackexchange.com/questions/28566/in-romance-languages-are-there-examples-of-male-names-that-derive-from-female-n" class="js-gps-track" data-gps-track="site.switch({ item_type:9, target_site:312 }); posts_hot_network.click({ item_type:2, location:9 })">
+                    In romance languages, are there examples of male names that derive from female names?
+                </a>
+
+            </li>
+            <li class="dno js-hidden">
+                <div class="favicon favicon-physics" title="Physics Stack Exchange"></div><a href="https://physics.stackexchange.com/questions/420542/whats-the-physics-behind-xkcd-2027-time-between-lightning-flash-and-radio-wav" class="js-gps-track" data-gps-track="site.switch({ item_type:9, target_site:151 }); posts_hot_network.click({ item_type:2, location:9 })">
+                    What&#39;s the physics behind XKCD #2027 (time between lightning flash and radio wave burst)?
+                </a>
+
+            </li>
+    </ul>
+
+        <a href="#" 
+           class="show-more js-show-more js-gps-track" 
+           data-gps-track="posts_hot_network.click({ item_type:3, location:9 })">
+            more hot questions
+        </a>
+</div>
+
+<div id="feed-link">
+    <a href="/feeds/tag?tagnames=software-installation&amp;sort=newest" title="the 30 newest software-installation questions">
+        <svg aria-hidden="true" class="svg-icon fc-orange-400 iconRss" width="18" height="18" viewBox="0 0 18 18"><path d="M1 3c0-1.1.9-2 2-2h12a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V3zm14.5 12C15.5 8.1 9.9 2.5 3 2.5V5a10 10 0 0 1 10 10h2.5zm-5 0A7.5 7.5 0 0 0 3 7.5V10a5 5 0 0 1 5 5h2.5zm-5 0A2.5 2.5 0 0 0 3 12.5V15h2.5z"/></svg>
+        newest software-installation questions feed
+    </a>
+</div>
+    </div>
+
+        </div>
+    </div>
+
+    <footer id="footer" class="site-footer js-footer" role="contentinfo">
+        <div class="site-footer--container">
+            
+            <nav class="site-footer--nav">
+                    <div class="site-footer--col site-footer--col__visible js-footer-col" data-name="default">
+                        <h5 class="-title"><a href="/">Ask Ubuntu</a></h5>
+                        <ul class="-list js-primary-footer-links">
+                                    <li class="-item"><a class="js-gps-track -link" data-gps-track="footer.click({ location: 5, link: 2 })" href="/tour">Tour</a></li>
+                                <li class="-item"><a href="/help" class="js-gps-track -link" data-gps-track="footer.click({ location: 5, link: 3 })">Help</a></li>
+                                    <li class="-item"><a class="js-gps-track -link" data-gps-track="footer.click({ location: 5, link: 5 })" href="https://chat.stackexchange.com?tab=site&host=askubuntu.com">Chat</a></li>
+                            <li class="-item"><a class="js-gps-track -link" data-gps-track="footer.click({ location: 5, link: 13 })" href="/contact">Contact</a></li>
+                                <li class="-item"><a class="js-gps-track -link" data-gps-track="footer.click({ location: 5, link: 14 })" href="https://meta.askubuntu.com">Feedback</a></li>
+                                                            <li class="-item"><a onclick='StackExchange.switchMobile("on")' class="js-gps-track -link" data-gps-track="footer.click({ location: 5, link: 12 })">Mobile</a></li>
+                        </ul>
+                    </div>
+                <div class="site-footer--col site-footer--col__visible js-footer-col" data-name="default">
+                    <h5 class="-title"><a class="js-gps-track" data-gps-track="footer.click({ location: 5, link: 1 })" href="https://stackoverflow.com/company/about">Company</a></h5>
+                    <ul class="-list">
+                                                    <li class="-item"><a href="https://stackoverflow.com" class="js-gps-track -link" data-gps-track="footer.click({ location: 5, link: 15})">Stack Overflow</a></li>
+                            <li class="-item"><a href="https://www.stackoverflowbusiness.com" class="js-gps-track -link" data-gps-track="footer.click({ location: 5, link: 19 })">Stack Overflow Business</a></li>
+                            <li class="-item"><a href="https://stackoverflow.com/jobs" class="js-gps-track -link" data-gps-track="footer.click({ location: 5, link: 17})">Developer Jobs</a></li>
+                                <li class="-item"><a class="js-gps-track -link" data-gps-track="footer.click({ location: 5, link: 1 })" href="https://stackoverflow.com/company/about">About</a></li>
+                        <li class="-item"><a class="js-gps-track -link" data-gps-track="footer.click({ location: 5, link: 27 })" href="https://stackoverflow.com/company/press">Press</a></li>
+                        <li class="-item"><a class="js-gps-track -link" data-gps-track="footer.click({ location: 5, link: 7 })" href="https://stackoverflow.com/legal">Legal</a></li>
+                        <li class="-item"><a class="js-gps-track -link" data-gps-track="footer.click({ location: 5, link: 8 })" href="https://stackoverflow.com/legal/privacy-policy">Privacy Policy</a></li>
+                    </ul>
+                </div>
+                <div class="site-footer--col site-footer--categories-nav site-footer--col__visible">
+                    <a href="#" class="site-footer--back js-footer-back"><svg aria-hidden="true" class="svg-icon iconArrowLeftAlt" width="18" height="18" viewBox="0 0 18 18"><path d="M10.58 16L12 14.59 6.4 9 12 3.41 10.57 2l-7 7z"/></svg></a>
+                    <div>
+                        <h5 class="-title"><a href="https://stackexchange.com">Stack Exchange<br> Network</a></h5>
+                        <ul class="-list">
+                            <li class="-item"><a href="#" class="-link _expandable js-footer-category-trigger js-gps-track" data-gps-track="footer.click({ location: 5, link: 24 })" data-target="Technology">Technology</a></li>
+                            <li class="-item"><a href="#" class="-link _expandable js-footer-category-trigger js-gps-track" data-gps-track="footer.click({ location: 5, link: 24 })" data-target="Life / Arts">Life / Arts</a></li>
+                            <li class="-item"><a href="#" class="-link _expandable js-footer-category-trigger js-gps-track" data-gps-track="footer.click({ location: 5, link: 24 })" data-target="Culture / Recreation">Culture / Recreation</a></li>
+                            <li class="-item"><a href="#" class="-link _expandable js-footer-category-trigger js-gps-track" data-gps-track="footer.click({ location: 5, link: 24 })" data-target="Science">Science</a></li>
+                            <li class="-item"><a href="#" class="-link _expandable js-footer-category-trigger js-gps-track" data-gps-track="footer.click({ location: 5, link: 24 })" data-target="Other">Other</a></li>
+
+                        </ul>
+                    </div>
+                </div>
+                <div class="site-footer--categories">
+                    <div class="site-footer--col site-footer--category js-footer-col" data-name="Technology">
+        <ul class="-list">
+                <li class="-item"><a href="https://stackoverflow.com" class="-link js-gps-track" data-gps-track="footer.click({ location: 2, link: 25 })" title="professional and enthusiast programmers">Stack Overflow</a></li>
+                <li class="-item"><a href="https://serverfault.com" class="-link js-gps-track" data-gps-track="footer.click({ location: 2, link: 25 })" title="system and network administrators">Server Fault</a></li>
+                <li class="-item"><a href="https://superuser.com" class="-link js-gps-track" data-gps-track="footer.click({ location: 2, link: 25 })" title="computer enthusiasts and power users">Super User</a></li>
+                <li class="-item"><a href="https://webapps.stackexchange.com" class="-link js-gps-track" data-gps-track="footer.click({ location: 2, link: 25 })" title="power users of web applications">Web Applications</a></li>
+                <li class="-item"><a href="https://askubuntu.com" class="-link js-gps-track" data-gps-track="footer.click({ location: 2, link: 25 })" title="Ubuntu users and developers">Ask Ubuntu</a></li>
+                <li class="-item"><a href="https://webmasters.stackexchange.com" class="-link js-gps-track" data-gps-track="footer.click({ location: 2, link: 25 })" title="pro webmasters">Webmasters</a></li>
+                <li class="-item"><a href="https://gamedev.stackexchange.com" class="-link js-gps-track" data-gps-track="footer.click({ location: 2, link: 25 })" title="professional and independent game developers">Game Development</a></li>
+                    </ul></div><div class="site-footer--col site-footer--category js-footer-col" data-name="Technology"><ul class="-list">
+                <li class="-item"><a href="https://tex.stackexchange.com" class="-link js-gps-track" data-gps-track="footer.click({ location: 2, link: 25 })" title="users of TeX, LaTeX, ConTeXt, and related typesetting systems">TeX - LaTeX</a></li>
+                <li class="-item"><a href="https://softwareengineering.stackexchange.com" class="-link js-gps-track" data-gps-track="footer.click({ location: 2, link: 25 })" title="professionals, academics, and students working within the systems development life cycle">Software Engineering</a></li>
+                <li class="-item"><a href="https://unix.stackexchange.com" class="-link js-gps-track" data-gps-track="footer.click({ location: 2, link: 25 })" title="users of Linux, FreeBSD and other Un*x-like operating systems">Unix &amp; Linux</a></li>
+                <li class="-item"><a href="https://apple.stackexchange.com" class="-link js-gps-track" data-gps-track="footer.click({ location: 2, link: 25 })" title="power users of Apple hardware and software">Ask Different (Apple)</a></li>
+                <li class="-item"><a href="https://wordpress.stackexchange.com" class="-link js-gps-track" data-gps-track="footer.click({ location: 2, link: 25 })" title="WordPress developers and administrators">WordPress Development</a></li>
+                <li class="-item"><a href="https://gis.stackexchange.com" class="-link js-gps-track" data-gps-track="footer.click({ location: 2, link: 25 })" title="cartographers, geographers and GIS professionals">Geographic Information Systems</a></li>
+                <li class="-item"><a href="https://electronics.stackexchange.com" class="-link js-gps-track" data-gps-track="footer.click({ location: 2, link: 25 })" title="electronics and electrical engineering professionals, students, and enthusiasts">Electrical Engineering</a></li>
+                    </ul></div><div class="site-footer--col site-footer--category js-footer-col" data-name="Technology"><ul class="-list">
+                <li class="-item"><a href="https://android.stackexchange.com" class="-link js-gps-track" data-gps-track="footer.click({ location: 2, link: 25 })" title="enthusiasts and power users of the Android operating system">Android Enthusiasts</a></li>
+                <li class="-item"><a href="https://security.stackexchange.com" class="-link js-gps-track" data-gps-track="footer.click({ location: 2, link: 25 })" title="information security professionals">Information Security</a></li>
+                <li class="-item"><a href="https://dba.stackexchange.com" class="-link js-gps-track" data-gps-track="footer.click({ location: 2, link: 25 })" title="database professionals who wish to improve their database skills and learn from others in the community">Database Administrators</a></li>
+                <li class="-item"><a href="https://drupal.stackexchange.com" class="-link js-gps-track" data-gps-track="footer.click({ location: 2, link: 25 })" title="Drupal developers and administrators">Drupal Answers</a></li>
+                <li class="-item"><a href="https://sharepoint.stackexchange.com" class="-link js-gps-track" data-gps-track="footer.click({ location: 2, link: 25 })" title="SharePoint enthusiasts">SharePoint</a></li>
+                <li class="-item"><a href="https://ux.stackexchange.com" class="-link js-gps-track" data-gps-track="footer.click({ location: 2, link: 25 })" title="user experience researchers and experts">User Experience</a></li>
+                <li class="-item"><a href="https://mathematica.stackexchange.com" class="-link js-gps-track" data-gps-track="footer.click({ location: 2, link: 25 })" title="users of Wolfram Mathematica">Mathematica</a></li>
+                    </ul></div><div class="site-footer--col site-footer--category js-footer-col" data-name="Technology"><ul class="-list">
+                <li class="-item"><a href="https://salesforce.stackexchange.com" class="-link js-gps-track" data-gps-track="footer.click({ location: 2, link: 25 })" title="Salesforce administrators, implementation experts, developers and anybody in-between">Salesforce</a></li>
+                <li class="-item"><a href="https://expressionengine.stackexchange.com" class="-link js-gps-track" data-gps-track="footer.click({ location: 2, link: 25 })" title="administrators, end users, developers and designers for ExpressionEngine&#174; CMS">ExpressionEngine&#174; Answers</a></li>
+                <li class="-item"><a href="https://pt.stackoverflow.com" class="-link js-gps-track" data-gps-track="footer.click({ location: 2, link: 25 })" title="programadores profissionais e entusiastas">Stack Overflow em Portugu&#234;s</a></li>
+                <li class="-item"><a href="https://blender.stackexchange.com" class="-link js-gps-track" data-gps-track="footer.click({ location: 2, link: 25 })" title="people who use Blender to create 3D graphics, animations, or games">Blender</a></li>
+                <li class="-item"><a href="https://networkengineering.stackexchange.com" class="-link js-gps-track" data-gps-track="footer.click({ location: 2, link: 25 })" title="network engineers">Network Engineering</a></li>
+                <li class="-item"><a href="https://crypto.stackexchange.com" class="-link js-gps-track" data-gps-track="footer.click({ location: 2, link: 25 })" title="software developers, mathematicians and others interested in cryptography">Cryptography</a></li>
+                <li class="-item"><a href="https://codereview.stackexchange.com" class="-link js-gps-track" data-gps-track="footer.click({ location: 2, link: 25 })" title="peer programmer code reviews">Code Review</a></li>
+                    </ul></div><div class="site-footer--col site-footer--category js-footer-col" data-name="Technology"><ul class="-list">
+                <li class="-item"><a href="https://magento.stackexchange.com" class="-link js-gps-track" data-gps-track="footer.click({ location: 2, link: 25 })" title="users of the Magento e-Commerce platform">Magento</a></li>
+                <li class="-item"><a href="https://softwarerecs.stackexchange.com" class="-link js-gps-track" data-gps-track="footer.click({ location: 2, link: 25 })" title="people seeking specific software recommendations">Software Recommendations</a></li>
+                <li class="-item"><a href="https://dsp.stackexchange.com" class="-link js-gps-track" data-gps-track="footer.click({ location: 2, link: 25 })" title="practitioners of the art and science of signal, image and video processing">Signal Processing</a></li>
+                <li class="-item"><a href="https://emacs.stackexchange.com" class="-link js-gps-track" data-gps-track="footer.click({ location: 2, link: 25 })" title="those using, extending or developing Emacs">Emacs</a></li>
+                <li class="-item"><a href="https://raspberrypi.stackexchange.com" class="-link js-gps-track" data-gps-track="footer.click({ location: 2, link: 25 })" title="users and developers of hardware and software for Raspberry Pi">Raspberry Pi</a></li>
+                <li class="-item"><a href="https://ru.stackoverflow.com" class="-link js-gps-track" data-gps-track="footer.click({ location: 2, link: 25 })" title="программистов">Stack Overflow на русском</a></li>
+                <li class="-item"><a href="https://codegolf.stackexchange.com" class="-link js-gps-track" data-gps-track="footer.click({ location: 2, link: 25 })" title="programming puzzle enthusiasts and code golfers">Programming Puzzles &amp; Code Golf</a></li>
+                    </ul></div><div class="site-footer--col site-footer--category js-footer-col" data-name="Technology"><ul class="-list">
+                <li class="-item"><a href="https://es.stackoverflow.com" class="-link js-gps-track" data-gps-track="footer.click({ location: 2, link: 25 })" title="programadores y profesionales de la inform&#225;tica">Stack Overflow en espa&#241;ol</a></li>
+                <li class="-item"><a href="https://ethereum.stackexchange.com" class="-link js-gps-track" data-gps-track="footer.click({ location: 2, link: 25 })" title="users of Ethereum, the decentralized application platform and smart contract enabled blockchain">Ethereum</a></li>
+                <li class="-item"><a href="https://datascience.stackexchange.com" class="-link js-gps-track" data-gps-track="footer.click({ location: 2, link: 25 })" title="Data science professionals, Machine Learning specialists, and those interested in learning more about the field">Data Science</a></li>
+                <li class="-item"><a href="https://arduino.stackexchange.com" class="-link js-gps-track" data-gps-track="footer.click({ location: 2, link: 25 })" title="developers of open-source hardware and software that is compatible with Arduino">Arduino</a></li>
+                <li class="-item"><a href="https://bitcoin.stackexchange.com" class="-link js-gps-track" data-gps-track="footer.click({ location: 2, link: 25 })" title="Bitcoin crypto-currency enthusiasts">Bitcoin</a></li>
+                            <li class="-item">
+                    <a href="https://stackexchange.com/sites#technology" class="-link js-gps-track" data-gps-track="footer.click({ location: 2, link: 26 })">
+                        <strong>
+                            more (30)
+                        </strong>
+                    </a>
+                </li>
+        </ul>
+    </div>
+    <div class="site-footer--col site-footer--category js-footer-col" data-name="Life / Arts">
+        <ul class="-list">
+                <li class="-item"><a href="https://photo.stackexchange.com" class="-link js-gps-track" data-gps-track="footer.click({ location: 2, link: 25 })" title="professional, enthusiast and amateur photographers">Photography</a></li>
+                <li class="-item"><a href="https://scifi.stackexchange.com" class="-link js-gps-track" data-gps-track="footer.click({ location: 2, link: 25 })" title="science fiction and fantasy enthusiasts">Science Fiction &amp; Fantasy</a></li>
+                <li class="-item"><a href="https://graphicdesign.stackexchange.com" class="-link js-gps-track" data-gps-track="footer.click({ location: 2, link: 25 })" title="Graphic Design professionals, students, and enthusiasts">Graphic Design</a></li>
+                <li class="-item"><a href="https://movies.stackexchange.com" class="-link js-gps-track" data-gps-track="footer.click({ location: 2, link: 25 })" title="movie and tv enthusiasts">Movies &amp; TV</a></li>
+                <li class="-item"><a href="https://music.stackexchange.com" class="-link js-gps-track" data-gps-track="footer.click({ location: 2, link: 25 })" title="musicians, students, and enthusiasts">Music: Practice &amp; Theory</a></li>
+                <li class="-item"><a href="https://worldbuilding.stackexchange.com" class="-link js-gps-track" data-gps-track="footer.click({ location: 2, link: 25 })" title="writers/artists using science, geography and culture to construct imaginary worlds and settings">Worldbuilding</a></li>
+                <li class="-item"><a href="https://cooking.stackexchange.com" class="-link js-gps-track" data-gps-track="footer.click({ location: 2, link: 25 })" title="professional and amateur chefs">Seasoned Advice (cooking)</a></li>
+                    </ul></div><div class="site-footer--col site-footer--category js-footer-col" data-name="Life / Arts"><ul class="-list">
+                <li class="-item"><a href="https://diy.stackexchange.com" class="-link js-gps-track" data-gps-track="footer.click({ location: 2, link: 25 })" title="contractors and serious DIYers">Home Improvement</a></li>
+                <li class="-item"><a href="https://money.stackexchange.com" class="-link js-gps-track" data-gps-track="footer.click({ location: 2, link: 25 })" title="people who want to be financially literate">Personal Finance &amp; Money</a></li>
+                <li class="-item"><a href="https://academia.stackexchange.com" class="-link js-gps-track" data-gps-track="footer.click({ location: 2, link: 25 })" title="academics and those enrolled in higher education">Academia</a></li>
+                <li class="-item"><a href="https://law.stackexchange.com" class="-link js-gps-track" data-gps-track="footer.click({ location: 2, link: 25 })" title="legal professionals, students, and others with experience or interest in law">Law</a></li>
+                            <li class="-item">
+                    <a href="https://stackexchange.com/sites#lifearts" class="-link js-gps-track" data-gps-track="footer.click({ location: 2, link: 26 })">
+                        <strong>
+                            more (15)
+                        </strong>
+                    </a>
+                </li>
+        </ul>
+    </div>
+    <div class="site-footer--col site-footer--category js-footer-col" data-name="Culture / Recreation">
+        <ul class="-list">
+                <li class="-item"><a href="https://english.stackexchange.com" class="-link js-gps-track" data-gps-track="footer.click({ location: 2, link: 25 })" title="linguists, etymologists, and serious English language enthusiasts">English Language &amp; Usage</a></li>
+                <li class="-item"><a href="https://skeptics.stackexchange.com" class="-link js-gps-track" data-gps-track="footer.click({ location: 2, link: 25 })" title="scientific skepticism">Skeptics</a></li>
+                <li class="-item"><a href="https://judaism.stackexchange.com" class="-link js-gps-track" data-gps-track="footer.click({ location: 2, link: 25 })" title="those who base their lives on Jewish law and tradition and anyone interested in learning more">Mi Yodeya (Judaism)</a></li>
+                <li class="-item"><a href="https://travel.stackexchange.com" class="-link js-gps-track" data-gps-track="footer.click({ location: 2, link: 25 })" title="road warriors and seasoned travelers">Travel</a></li>
+                <li class="-item"><a href="https://christianity.stackexchange.com" class="-link js-gps-track" data-gps-track="footer.click({ location: 2, link: 25 })" title="committed Christians, experts in Christianity and those interested in learning more">Christianity</a></li>
+                <li class="-item"><a href="https://ell.stackexchange.com" class="-link js-gps-track" data-gps-track="footer.click({ location: 2, link: 25 })" title="speakers of other languages learning English">English Language Learners</a></li>
+                <li class="-item"><a href="https://japanese.stackexchange.com" class="-link js-gps-track" data-gps-track="footer.click({ location: 2, link: 25 })" title="students, teachers, and linguists wanting to discuss the finer points of the Japanese language">Japanese Language</a></li>
+                    </ul></div><div class="site-footer--col site-footer--category js-footer-col" data-name="Culture / Recreation"><ul class="-list">
+                <li class="-item"><a href="https://gaming.stackexchange.com" class="-link js-gps-track" data-gps-track="footer.click({ location: 2, link: 25 })" title="passionate videogamers on all platforms">Arqade (gaming)</a></li>
+                <li class="-item"><a href="https://bicycles.stackexchange.com" class="-link js-gps-track" data-gps-track="footer.click({ location: 2, link: 25 })" title="people who build and repair bicycles, people who train cycling, or commute on bicycles">Bicycles</a></li>
+                <li class="-item"><a href="https://rpg.stackexchange.com" class="-link js-gps-track" data-gps-track="footer.click({ location: 2, link: 25 })" title="gamemasters and players of tabletop, paper-and-pencil role-playing games">Role-playing Games</a></li>
+                <li class="-item"><a href="https://anime.stackexchange.com" class="-link js-gps-track" data-gps-track="footer.click({ location: 2, link: 25 })" title="anime and manga fans">Anime &amp; Manga</a></li>
+                <li class="-item"><a href="https://puzzling.stackexchange.com" class="-link js-gps-track" data-gps-track="footer.click({ location: 2, link: 25 })" title="those who create, solve, and study puzzles">Puzzling</a></li>
+                <li class="-item"><a href="https://mechanics.stackexchange.com" class="-link js-gps-track" data-gps-track="footer.click({ location: 2, link: 25 })" title="mechanics and DIY enthusiast owners of cars, trucks, and motorcycles">Motor Vehicle Maintenance &amp; Repair</a></li>
+                            <li class="-item">
+                    <a href="https://stackexchange.com/sites#culturerecreation" class="-link js-gps-track" data-gps-track="footer.click({ location: 2, link: 26 })">
+                        <strong>
+                            more (33)
+                        </strong>
+                    </a>
+                </li>
+        </ul>
+    </div>
+    <div class="site-footer--col site-footer--category js-footer-col" data-name="Science">
+        <ul class="-list">
+                <li class="-item"><a href="https://mathoverflow.net" class="-link js-gps-track" data-gps-track="footer.click({ location: 2, link: 25 })" title="professional mathematicians">MathOverflow</a></li>
+                <li class="-item"><a href="https://math.stackexchange.com" class="-link js-gps-track" data-gps-track="footer.click({ location: 2, link: 25 })" title="people studying math at any level and professionals in related fields">Mathematics</a></li>
+                <li class="-item"><a href="https://stats.stackexchange.com" class="-link js-gps-track" data-gps-track="footer.click({ location: 2, link: 25 })" title="people interested in statistics, machine learning, data analysis, data mining, and data visualization">Cross Validated (stats)</a></li>
+                <li class="-item"><a href="https://cstheory.stackexchange.com" class="-link js-gps-track" data-gps-track="footer.click({ location: 2, link: 25 })" title="theoretical computer scientists and researchers in related fields">Theoretical Computer Science</a></li>
+                <li class="-item"><a href="https://physics.stackexchange.com" class="-link js-gps-track" data-gps-track="footer.click({ location: 2, link: 25 })" title="active researchers, academics and students of physics">Physics</a></li>
+                <li class="-item"><a href="https://chemistry.stackexchange.com" class="-link js-gps-track" data-gps-track="footer.click({ location: 2, link: 25 })" title="scientists, academics, teachers, and students in the field of chemistry">Chemistry</a></li>
+                <li class="-item"><a href="https://biology.stackexchange.com" class="-link js-gps-track" data-gps-track="footer.click({ location: 2, link: 25 })" title="biology researchers, academics, and students">Biology</a></li>
+                    </ul></div><div class="site-footer--col site-footer--category js-footer-col" data-name="Science"><ul class="-list">
+                <li class="-item"><a href="https://cs.stackexchange.com" class="-link js-gps-track" data-gps-track="footer.click({ location: 2, link: 25 })" title="students, researchers and practitioners of computer science">Computer Science</a></li>
+                <li class="-item"><a href="https://philosophy.stackexchange.com" class="-link js-gps-track" data-gps-track="footer.click({ location: 2, link: 25 })" title="those interested in the study of the fundamental nature of knowledge, reality, and existence">Philosophy</a></li>
+                            <li class="-item">
+                    <a href="https://stackexchange.com/sites#science" class="-link js-gps-track" data-gps-track="footer.click({ location: 2, link: 26 })">
+                        <strong>
+                            more (10)
+                        </strong>
+                    </a>
+                </li>
+        </ul>
+    </div>
+    <div class="site-footer--col site-footer--category js-footer-col" data-name="Other">
+        <ul class="-list">
+                <li class="-item"><a href="https://meta.stackexchange.com" class="-link js-gps-track" data-gps-track="footer.click({ location: 2, link: 25 })" title="meta-discussion of the Stack Exchange family of Q&amp;A websites">Meta Stack Exchange</a></li>
+                <li class="-item"><a href="https://stackapps.com" class="-link js-gps-track" data-gps-track="footer.click({ location: 2, link: 25 })" title="apps, scripts, and development with the Stack Exchange API">Stack Apps</a></li>
+                <li class="-item"><a href="https://api.stackexchange.com" class="-link js-gps-track" data-gps-track="footer.click({ location: 2, link: 25 })" title="programmatic interaction with Stack Exchange sites">API</a></li>
+                <li class="-item"><a href="https://data.stackexchange.com" class="-link js-gps-track" data-gps-track="footer.click({ location: 2, link: 25 })" title="querying Stack Exchange data using SQL">Data</a></li>
+                <li class="-item"><a href="https://area51.stackexchange.com" class="-link js-gps-track" data-gps-track="footer.click({ location: 2, link: 25 })" title="proposing new sites in the Stack Exchange network">Area 51</a></li>
+                    </ul>
+    </div>
+                </div>
+            </nav>
+            <div class="site-footer--copyright fs-fine">
+                <ul class="-list">
+                    <li class="-item"><a class="js-gps-track -link" data-gps-track="footer.click({ location: 5, link:4 })" href="https://stackoverflow.blog?blb=1">Blog</a></li>
+                    <li class="-item"><a href="https://www.facebook.com/officialstackoverflow/" class="-link">Facebook</a></li>
+                    <li class="-item"><a href="https://twitter.com/stackoverflow" class="-link">Twitter</a></li>
+                    <li class="-item"><a href="https://linkedin.com/company/stack-overflow" class="-link">LinkedIn</a></li>
+                </ul>
+
+                <p class="mt-auto mb24">
+site design / logo &#169; 2018 Stack Exchange Inc; user contributions licensed under <a href="https://creativecommons.org/licenses/by-sa/3.0/" rel="license">cc by-sa 3.0</a>
+                            with <a href="https://stackoverflow.blog/2009/06/25/attribution-required/" rel="license">attribution required</a>.
+                    <span id="svnrev">rev&nbsp;2018.8.1.31226</span>
+                </p>
+            </div>
+        </div>
+
+            <div class="site-footer--extra">
+                Ubuntu and Canonical are registered trademarks of Canonical Ltd.
+            </div>
+            </footer>
+    <noscript>
+        <div id="noscript-warning">Ask Ubuntu works best with JavaScript enabled
+            <img src="https://pixel.quantserve.com/pixel/p-c1rF4kxgLUzNc.gif" alt="" class="dno">
+        </div>
+    </noscript>
+
+<script>
+            (function(i, s, o, g, r, a, m) {
+                i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function() { (i[r].q = i[r].q || []).push(arguments) }, i[r].l = 1 * new Date(); a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m);
+            })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+            StackExchange.ready(function () {
+
+                StackExchange.ga.init({
+                    sendTitles: true,
+                    tracker: window.ga,
+                    trackingCodes: [
+                        'UA-108242619-5'
+                    ]
+                });
+
+
+
+                    StackExchange.ga.setDimension('dimension2', '|software-installation|');
+
+                    StackExchange.ga.setDimension('dimension3', 'Questions/ListByTag');
+
+
+                StackExchange.ga.trackPageView();
+            });
+            
+/**/
+            
+            var _qevents = _qevents || [],
+            _comscore = _comscore || [];
+            (function() {
+                var ssl = 'https:' == document.location.protocol,
+                    s = document.getElementsByTagName('script')[0],
+                    qc = document.createElement('script');
+                 qc.async = true;
+                    qc.src = (ssl ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+                    s.parentNode.insertBefore(qc, s);
+                    _qevents.push({ qacct: "p-c1rF4kxgLUzNc" });
+/**/
+                 var sc = document.createElement('script');
+                    sc.async = true;
+                    sc.src = (ssl ? 'https://sb' : 'http://b') + '.scorecardresearch.com/beacon.js';
+                    s.parentNode.insertBefore(sc, s);
+                    _comscore.push({ c1: "2", c2: "17440561" });
+            })();
+            
+
+</script>
+            
+    </body>
+    </html>

@@ -1,0 +1,20 @@
+ <div class=" col-sm-6 row row-content">
+                 <!-- my first website with html with my style-->
+                 <h1>This is my fist website</h1>
+                 <h2>I love codding</h2>
+                 <h2>This is my heading</h2>
+                 <p>This will be an intresting journey</p>
+                 <ul>
+                     <li>Peas</li>
+                     <li>bananas</li>
+                     <li>Oranges</li>
+                 </ul>
+                 <div class="col">
+                    <img src="ciku.jpg" alt="ciku" width="100px">
+                 </div> 
+                 </div>
+                 
+<div class="container">
+    <footer>Developed by Lydia Company and Associates<br>P. O. Box 46411-00100 GPO Nairobi Kenya</footer>
+</div>
+</div>s

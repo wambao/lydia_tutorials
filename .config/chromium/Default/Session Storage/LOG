@@ -1,0 +1,21 @@
+2018/08/13-11:49:00.801 8035 Reusing MANIFEST /home/wairimu/.config/chromium/Default/Session Storage/MANIFEST-000001
+2018/08/13-11:49:00.802 8035 Recovering log #63
+2018/08/13-11:49:00.802 8035 Reusing old log /home/wairimu/.config/chromium/Default/Session Storage/000063.log 
+2018/08/13-11:55:18.704 8628 Level-0 table #67: started
+2018/08/13-11:55:18.761 8628 Level-0 table #67: 14196 bytes OK
+2018/08/13-11:55:18.829 8628 Delete type=0 #63
+2018/08/13-12:30:48.913 8628 Level-0 table #69: started
+2018/08/13-12:30:49.050 8628 Level-0 table #69: 14921 bytes OK
+2018/08/13-12:30:49.162 8628 Delete type=0 #66
+2018/08/13-12:30:49.164 8628 Compacting 4@0 + 1@1 files
+2018/08/13-12:30:49.296 8628 Generated table #70@0: 744 keys, 29908 bytes
+2018/08/13-12:30:49.297 8628 Compacted 4@0 + 1@1 files => 29908 bytes
+2018/08/13-12:30:49.329 8628 compacted to: files[ 0 1 1 0 0 0 0 ]
+2018/08/13-12:30:49.330 8628 Delete type=2 #60
+2018/08/13-12:30:49.331 8628 Delete type=2 #69
+2018/08/13-12:30:49.331 8628 Delete type=2 #62
+2018/08/13-12:30:49.331 8628 Delete type=2 #64
+2018/08/13-12:30:49.331 8628 Delete type=2 #67
+2018/08/13-12:42:13.891 8628 Level-0 table #72: started
+2018/08/13-12:42:13.979 8628 Level-0 table #72: 17483 bytes OK
+2018/08/13-12:42:14.035 8628 Delete type=0 #68
